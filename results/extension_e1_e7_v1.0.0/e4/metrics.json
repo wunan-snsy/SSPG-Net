@@ -1,0 +1,29 @@
+{
+  "detection": {
+    "roc_auc": 0.9941333333333334,
+    "balanced_accuracy": 0.9366666666666666,
+    "f1": 0.9343971631205674,
+    "sensitivity": 0.8783333333333333,
+    "specificity": 0.995,
+    "threshold": 0.960034966468811,
+    "tn": 199,
+    "fp": 1,
+    "fn": 73,
+    "tp": 527
+  },
+  "localization": {
+    "pixel_f1": 0.7203506661889539,
+    "pixel_iou": 0.5629281766150799,
+    "threshold": 0.5,
+    "tp": 6030658,
+    "fp": 1920728,
+    "fn": 2761629,
+    "tn": 41715785
+  },
+  "sources": 200,
+  "authentic_samples": 200,
+  "manipulated_samples": 600,
+  "checkpoint": "e53r_joint_v1_best.pth",
+  "retrained": false,
+  "seed": 20261004
+}

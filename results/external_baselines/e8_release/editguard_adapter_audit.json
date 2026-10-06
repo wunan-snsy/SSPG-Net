@@ -1,0 +1,37 @@
+{
+  "official_repo_commit": "174778fb371640bb31b32fcb9f7bfd440c88766b",
+  "checkpoint_sha256": "b967b91b94a464ab73f82db63a57ee818e6fc5d99d7ae6aa094a1777cac977d5",
+  "tracked_source_changes": [],
+  "yaml_top_level_scale": 4,
+  "yaml_network_scale": 2,
+  "adapter_network_scale": 4,
+  "block_num": [
+    6,
+    6
+  ],
+  "loaded_irn_operations": 12,
+  "checked_in_irn_operations": 6,
+  "checked_in_strict_load_passes": false,
+  "checked_in_missing_keys": 0,
+  "checked_in_unexpected_keys": 504,
+  "loaded_state_keys": 1281,
+  "example": "dataset\\examples\\0002.png",
+  "input_size": [
+    3,
+    256,
+    256
+  ],
+  "protected_size": [
+    3,
+    256,
+    256
+  ],
+  "protected_psnr_db": 37.222826733124414,
+  "clean_map_finite": true,
+  "edited_map_finite": true,
+  "clean_map_positive_fraction": 4.57763671875e-05,
+  "edited_region_positive_fraction": 0.9995659722222222,
+  "edited_outside_positive_fraction": 0.006721280364372469,
+  "clean_raw_vs_adapter_threshold_flip_fraction": 0.0,
+  "edit_raw_vs_adapter_threshold_flip_fraction": 0.0
+}

@@ -1,0 +1,4 @@
+model,detection_auc,detection_f1,localization_pixel_f1,localization_pixel_iou
+FULL,0.9948 ± 0.0026,0.9891 ± 0.0048,0.7853 ± 0.0027,0.6465 ± 0.0037
+NO_GRAPH,0.9903 ± 0.0008,0.9811 ± 0.0048,0.7328 ± 0.0054,0.5783 ± 0.0068
+NO_PROVENANCE,0.9852 ± 0.0031,0.9723 ± 0.0131,0.6232 ± 0.0239,0.4529 ± 0.0254

@@ -1,0 +1,902 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 187
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "bytes": 311
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 2000
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 504
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 377
+  },
+  {
+    "path": "EXPERIMENTS_E1_E7.md",
+    "bytes": 2988
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1079
+  },
+  {
+    "path": "README.md",
+    "bytes": 5941
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "bytes": 758
+  },
+  {
+    "path": "checkpoints/README.md",
+    "bytes": 671
+  },
+  {
+    "path": "configs/e5_benign_robustness.json",
+    "bytes": 746
+  },
+  {
+    "path": "configs/e6_alpha_sensitivity.json",
+    "bytes": 294
+  },
+  {
+    "path": "configs/e7_graph_sensitivity.json",
+    "bytes": 184
+  },
+  {
+    "path": "configs/imd2020_experiment_v1.yaml",
+    "bytes": 1654
+  },
+  {
+    "path": "configs/rtx3060_6gb.yaml",
+    "bytes": 769
+  },
+  {
+    "path": "datasets/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "datasets/imd2020.py",
+    "bytes": 3163
+  },
+  {
+    "path": "docs/DATA.md",
+    "bytes": 2407
+  },
+  {
+    "path": "docs/REPRODUCIBILITY.md",
+    "bytes": 2598
+  },
+  {
+    "path": "environment.yml",
+    "bytes": 442
+  },
+  {
+    "path": "evaluation/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "evaluation/audit_detection_dataset.py",
+    "bytes": 13893
+  },
+  {
+    "path": "losses/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "losses/detection_loss.py",
+    "bytes": 124
+  },
+  {
+    "path": "losses/localization_loss.py",
+    "bytes": 258
+  },
+  {
+    "path": "losses/provenance_loss.py",
+    "bytes": 125
+  },
+  {
+    "path": "main.py",
+    "bytes": 524
+  },
+  {
+    "path": "manifests/README.md",
+    "bytes": 403
+  },
+  {
+    "path": "manifests/imd2020_manifest.csv",
+    "bytes": 173584
+  },
+  {
+    "path": "manifests/imd2020_manifest_e5_clean.csv",
+    "bytes": 173430
+  },
+  {
+    "path": "models/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "models/adapter.py",
+    "bytes": 655
+  },
+  {
+    "path": "models/graph_builder.py",
+    "bytes": 436
+  },
+  {
+    "path": "models/graph_builder_v2.py",
+    "bytes": 8120
+  },
+  {
+    "path": "models/hierarchical_gnn.py",
+    "bytes": 422
+  },
+  {
+    "path": "models/provenance_evidence.py",
+    "bytes": 5727
+  },
+  {
+    "path": "models/provenance_gnn_v2.py",
+    "bytes": 6676
+  },
+  {
+    "path": "models/provenance_heads_v2.py",
+    "bytes": 5859
+  },
+  {
+    "path": "models/provenance_only_model.py",
+    "bytes": 2184
+  },
+  {
+    "path": "models/sspg_ablation_model_v2.py",
+    "bytes": 24813
+  },
+  {
+    "path": "models/sspg_frontend_v2.py",
+    "bytes": 6476
+  },
+  {
+    "path": "models/sspg_graph_frontend_v2.py",
+    "bytes": 2642
+  },
+  {
+    "path": "models/sspg_joint_model_v2.py",
+    "bytes": 6240
+  },
+  {
+    "path": "models/sspg_net.py",
+    "bytes": 11097
+  },
+  {
+    "path": "models/stego_decoder.py",
+    "bytes": 328
+  },
+  {
+    "path": "models/stego_decoder_v1.py",
+    "bytes": 328
+  },
+  {
+    "path": "models/stego_decoder_v2.py",
+    "bytes": 1186
+  },
+  {
+    "path": "models/stego_encoder.py",
+    "bytes": 273
+  },
+  {
+    "path": "models/stego_encoder_v1.py",
+    "bytes": 273
+  },
+  {
+    "path": "models/unet_localization_baseline.py",
+    "bytes": 784
+  },
+  {
+    "path": "models/vit_backbone.py",
+    "bytes": 793
+  },
+  {
+    "path": "models/vit_backbone_v2.py",
+    "bytes": 3233
+  },
+  {
+    "path": "preprocessing/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "preprocessing/active_sspg_dataset.py",
+    "bytes": 18527
+  },
+  {
+    "path": "preprocessing/active_sspg_loao_dataset.py",
+    "bytes": 20431
+  },
+  {
+    "path": "preprocessing/embed.py",
+    "bytes": 510
+  },
+  {
+    "path": "preprocessing/embed_v1.py",
+    "bytes": 510
+  },
+  {
+    "path": "preprocessing/patch.py",
+    "bytes": 167
+  },
+  {
+    "path": "preprocessing/residual.py",
+    "bytes": 155
+  },
+  {
+    "path": "preprocessing/tamper.py",
+    "bytes": 4618
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 373
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e1/confusion_matrix.csv",
+    "bytes": 24
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e1/detection_metrics.json",
+    "bytes": 255
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e1/localization_metrics.json",
+    "bytes": 164
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e1/test_summary.md",
+    "bytes": 711
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e2/Table_multiseed.csv",
+    "bytes": 314
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e2/mean_std_summary.csv",
+    "bytes": 695
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e2/seed_results.csv",
+    "bytes": 931
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e3/metrics.csv",
+    "bytes": 874
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e3/protocol.json",
+    "bytes": 1268
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e3/training_log.csv",
+    "bytes": 4657
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e4/Table_cross_dataset.csv",
+    "bytes": 361
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e4/attack_statistics.csv",
+    "bytes": 54066
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e4/dataset_manifest.csv",
+    "bytes": 152874
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e4/invalid_images.csv",
+    "bytes": 11
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e4/metrics.json",
+    "bytes": 675
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e5/Figure_benign_attack.png",
+    "bytes": 248274
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e5/Table_benign_attack.csv",
+    "bytes": 1295
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e5/metrics.json",
+    "bytes": 2999
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e6/Figure_alpha_sensitivity.png",
+    "bytes": 150943
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e6/Table_alpha_sensitivity.csv",
+    "bytes": 872
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e6/metrics.json",
+    "bytes": 1880
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e7/Figure_graph_sensitivity.png",
+    "bytes": 70977
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e7/Table_graph_sensitivity.csv",
+    "bytes": 586
+  },
+  {
+    "path": "results/extension_e1_e7_v1.0.0/e7/metrics.json",
+    "bytes": 1245
+  },
+  {
+    "path": "results/external_baselines/e8_release/README.md",
+    "bytes": 756
+  },
+  {
+    "path": "results/external_baselines/e8_release/archive_manifest.json",
+    "bytes": 3626
+  },
+  {
+    "path": "results/external_baselines/e8_release/audit_report.md",
+    "bytes": 1495
+  },
+  {
+    "path": "results/external_baselines/e8_release/bootstrap/bootstrap_results.csv",
+    "bytes": 740
+  },
+  {
+    "path": "results/external_baselines/e8_release/compatibility_notes.md",
+    "bytes": 2267
+  },
+  {
+    "path": "results/external_baselines/e8_release/e8_summary.md",
+    "bytes": 6158
+  },
+  {
+    "path": "results/external_baselines/e8_release/e8_verification.json",
+    "bytes": 1915
+  },
+  {
+    "path": "results/external_baselines/e8_release/editguard_adapter_audit.json",
+    "bytes": 1041
+  },
+  {
+    "path": "results/external_baselines/e8_release/preflight/metrics.json",
+    "bytes": 635
+  },
+  {
+    "path": "results/external_baselines/e8_release/preflight/test_predictions.csv",
+    "bytes": 16599
+  },
+  {
+    "path": "results/external_baselines/e8_release/protocol_manifest.json",
+    "bytes": 69853
+  },
+  {
+    "path": "results/external_baselines/e8_release/repo_versions.json",
+    "bytes": 1317
+  },
+  {
+    "path": "results/external_baselines/e8_release/reviewer_audit.md",
+    "bytes": 3249
+  },
+  {
+    "path": "results/external_baselines/e8_release/table18_trufor.csv",
+    "bytes": 306
+  },
+  {
+    "path": "results/external_baselines/e8_release/table19_editguard.csv",
+    "bytes": 257
+  },
+  {
+    "path": "results/external_baselines/e8_release/test/editguard_fidelity.json",
+    "bytes": 171
+  },
+  {
+    "path": "results/external_baselines/e8_release/test/editguard_metrics.json",
+    "bytes": 441
+  },
+  {
+    "path": "results/external_baselines/e8_release/test/editguard_predictions.csv",
+    "bytes": 23022
+  },
+  {
+    "path": "results/external_baselines/e8_release/test/trufor_metrics.json",
+    "bytes": 460
+  },
+  {
+    "path": "results/external_baselines/e8_release/test/trufor_predictions.csv",
+    "bytes": 25336
+  },
+  {
+    "path": "results/external_baselines/e8_release/validation/editguard_metrics.json",
+    "bytes": 441
+  },
+  {
+    "path": "results/external_baselines/e8_release/validation/editguard_predictions.csv",
+    "bytes": 22631
+  },
+  {
+    "path": "results/external_baselines/e8_release/validation/trufor_calibration.json",
+    "bytes": 252
+  },
+  {
+    "path": "results/external_baselines/e8_release/validation/trufor_predictions.csv",
+    "bytes": 24910
+  },
+  {
+    "path": "results/release_v1.0.0/README.md",
+    "bytes": 858
+  },
+  {
+    "path": "results/release_v1.0.0/SHA256SUMS",
+    "bytes": 5824
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_ablation_paper_table.csv",
+    "bytes": 612
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_ablation_summary.csv",
+    "bytes": 2326
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_ablation_summary.json",
+    "bytes": 5378
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_graph_history.csv",
+    "bytes": 4718
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_graph_protocol.json",
+    "bytes": 1253
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_graph_summary.csv",
+    "bytes": 860
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_graph_val_predictions.csv",
+    "bytes": 13824
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_provenance_history.csv",
+    "bytes": 2934
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_provenance_protocol.json",
+    "bytes": 1259
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_provenance_summary.csv",
+    "bytes": 850
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_no_provenance_val_predictions.csv",
+    "bytes": 13817
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_visual_only_history.csv",
+    "bytes": 3355
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_visual_only_protocol.json",
+    "bytes": 1256
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_visual_only_summary.csv",
+    "bytes": 864
+  },
+  {
+    "path": "results/release_v1.0.0/ablation/e53r_4d_visual_only_val_predictions.csv",
+    "bytes": 13803
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c2_validation_attackwise.csv",
+    "bytes": 1769
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c2_validation_causal_audit.json",
+    "bytes": 929
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c2_validation_causal_predictions.csv",
+    "bytes": 42162
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c2_validation_causal_summary.csv",
+    "bytes": 1117
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c2_validation_paired.csv",
+    "bytes": 15159
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c3_attackwise_contribution.csv",
+    "bytes": 617
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c3_provenance_contribution.csv",
+    "bytes": 19184
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c3_representation_audit.json",
+    "bytes": 1305
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c3_representation_predictions.csv",
+    "bytes": 36812
+  },
+  {
+    "path": "results/release_v1.0.0/causal/e53r_4c3_representation_summary.csv",
+    "bytes": 1344
+  },
+  {
+    "path": "results/release_v1.0.0/joint/e53r_joint_v1_history.csv",
+    "bytes": 3152
+  },
+  {
+    "path": "results/release_v1.0.0/joint/e53r_joint_v1_protocol.json",
+    "bytes": 1118
+  },
+  {
+    "path": "results/release_v1.0.0/joint/e53r_joint_v1_summary.csv",
+    "bytes": 799
+  },
+  {
+    "path": "results/release_v1.0.0/joint/e53r_joint_v1_val_predictions.csv",
+    "bytes": 13836
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_copy_move_calibration_predictions.csv",
+    "bytes": 9118
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_copy_move_heldout_predictions.csv",
+    "bytes": 4836
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_copy_move_history.csv",
+    "bytes": 4302
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_copy_move_protocol.json",
+    "bytes": 947
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_copy_move_summary.csv",
+    "bytes": 1395
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_erase_calibration_predictions.csv",
+    "bytes": 9190
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_erase_heldout_predictions.csv",
+    "bytes": 4823
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_erase_history.csv",
+    "bytes": 4735
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_erase_protocol.json",
+    "bytes": 947
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_erase_summary.csv",
+    "bytes": 1434
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_roll_calibration_predictions.csv",
+    "bytes": 9507
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_roll_heldout_predictions.csv",
+    "bytes": 4456
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_roll_history.csv",
+    "bytes": 4536
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_roll_protocol.json",
+    "bytes": 947
+  },
+  {
+    "path": "results/release_v1.0.0/loao/e53r_4c4_loao_roll_summary.csv",
+    "bytes": 1362
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_128bit_training_log.csv",
+    "bytes": 1214
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_causal_results.csv",
+    "bytes": 167
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_error_distribution.csv",
+    "bytes": 372
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_multiseed_results.csv",
+    "bytes": 1142
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_multiseed_summary.csv",
+    "bytes": 554
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_reliability_per_bit.csv",
+    "bytes": 5141
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_reliability_per_image.csv",
+    "bytes": 22003
+  },
+  {
+    "path": "results/release_v1.0.0/provenance/stego_structured_v33_reliability_summary.csv",
+    "bytes": 518
+  },
+  {
+    "path": "scripts/aggregate_multiseed.py",
+    "bytes": 1097
+  },
+  {
+    "path": "scripts/build_casia_attack_plan.py",
+    "bytes": 908
+  },
+  {
+    "path": "scripts/build_e8_release.py",
+    "bytes": 2928
+  },
+  {
+    "path": "scripts/build_imd2020_manifest.py",
+    "bytes": 7682
+  },
+  {
+    "path": "scripts/build_public_snapshot.py",
+    "bytes": 3044
+  },
+  {
+    "path": "scripts/e8_archive.py",
+    "bytes": 2133
+  },
+  {
+    "path": "scripts/e8_bootstrap.py",
+    "bytes": 5389
+  },
+  {
+    "path": "scripts/e8_editguard.py",
+    "bytes": 7045
+  },
+  {
+    "path": "scripts/e8_editguard_audit.py",
+    "bytes": 4923
+  },
+  {
+    "path": "scripts/e8_finalize.py",
+    "bytes": 13529
+  },
+  {
+    "path": "scripts/e8_freeze_protocol.py",
+    "bytes": 4606
+  },
+  {
+    "path": "scripts/e8_metrics.py",
+    "bytes": 2499
+  },
+  {
+    "path": "scripts/e8_preflight.py",
+    "bytes": 2608
+  },
+  {
+    "path": "scripts/e8_trufor.py",
+    "bytes": 5244
+  },
+  {
+    "path": "scripts/e8_verify.py",
+    "bytes": 7210
+  },
+  {
+    "path": "scripts/e8_versions.py",
+    "bytes": 2869
+  },
+  {
+    "path": "scripts/eval_alpha_sensitivity.py",
+    "bytes": 4135
+  },
+  {
+    "path": "scripts/eval_benign_robustness.py",
+    "bytes": 3444
+  },
+  {
+    "path": "scripts/eval_casia_cross_dataset.py",
+    "bytes": 3483
+  },
+  {
+    "path": "scripts/eval_graph_sensitivity.py",
+    "bytes": 3264
+  },
+  {
+    "path": "scripts/eval_test_final.py",
+    "bytes": 6175
+  },
+  {
+    "path": "scripts/inspect_imd2020.py",
+    "bytes": 3510
+  },
+  {
+    "path": "scripts/plot_benign_robustness.py",
+    "bytes": 1344
+  },
+  {
+    "path": "scripts/prepare_casia2.py",
+    "bytes": 1777
+  },
+  {
+    "path": "scripts/run_multiseed.py",
+    "bytes": 2293
+  },
+  {
+    "path": "scripts/train_provenance_only.py",
+    "bytes": 1577
+  },
+  {
+    "path": "scripts/verify_release.py",
+    "bytes": 4207
+  },
+  {
+    "path": "tests/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "tests/smoke_test.py",
+    "bytes": 1981
+  },
+  {
+    "path": "tests/test_e53r_4c1_preflight.py",
+    "bytes": 9688
+  },
+  {
+    "path": "tests/test_e53r_4c2_validation_causal_audit.py",
+    "bytes": 50311
+  },
+  {
+    "path": "tests/test_e53r_4c3_representation_ablation_audit.py",
+    "bytes": 48903
+  },
+  {
+    "path": "tests/test_e53r_4c4_formal_split_gate.py",
+    "bytes": 21212
+  },
+  {
+    "path": "tests/test_e53r_4c4_loao_protocol.py",
+    "bytes": 14454
+  },
+  {
+    "path": "tests/test_e53r_4d_ablation_gate.py",
+    "bytes": 34240
+  },
+  {
+    "path": "tests/test_e53r_active_data_protocol.py",
+    "bytes": 5354
+  },
+  {
+    "path": "tests/test_e53r_active_dataset_integration.py",
+    "bytes": 16810
+  },
+  {
+    "path": "tests/test_e53r_active_manifest_audit.py",
+    "bytes": 21433
+  },
+  {
+    "path": "tests/test_e53r_attack_balance_r3.py",
+    "bytes": 8583
+  },
+  {
+    "path": "tests/test_e53r_block_causality.py",
+    "bytes": 21270
+  },
+  {
+    "path": "tests/test_e53r_copy_move_geometry_r2.py",
+    "bytes": 5557
+  },
+  {
+    "path": "tests/test_e53r_evidence_projection.py",
+    "bytes": 8101
+  },
+  {
+    "path": "tests/test_e53r_frontend_v2.py",
+    "bytes": 9153
+  },
+  {
+    "path": "tests/test_e53r_full_graph_frontend.py",
+    "bytes": 10430
+  },
+  {
+    "path": "tests/test_e53r_full_joint_model_v2.py",
+    "bytes": 30258
+  },
+  {
+    "path": "tests/test_e53r_gate0_v33.py",
+    "bytes": 7664
+  },
+  {
+    "path": "tests/test_e53r_gnn_v2.py",
+    "bytes": 7803
+  },
+  {
+    "path": "tests/test_e53r_graph_builder_v2.py",
+    "bytes": 5698
+  },
+  {
+    "path": "tests/test_e53r_joint_heads_dependency_r1.py",
+    "bytes": 7969
+  },
+  {
+    "path": "tests/test_e53r_joint_heads_v2.py",
+    "bytes": 10163
+  },
+  {
+    "path": "tests/test_e53r_reference_free_evidence.py",
+    "bytes": 18023
+  },
+  {
+    "path": "tests/test_e53r_spatial_causality.py",
+    "bytes": 16811
+  },
+  {
+    "path": "tests/test_e53r_training_protocol_v1.py",
+    "bytes": 11212
+  },
+  {
+    "path": "tests/test_e53r_training_step_v1.py",
+    "bytes": 12196
+  },
+  {
+    "path": "tests/test_e53r_vit_backbone_v2.py",
+    "bytes": 4741
+  },
+  {
+    "path": "training/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "training/e53r_training_protocol_v1.py",
+    "bytes": 9980
+  },
+  {
+    "path": "training/train_e53r_ablation_v1.py",
+    "bytes": 12512
+  },
+  {
+    "path": "training/train_e53r_joint_v1.py",
+    "bytes": 57010
+  },
+  {
+    "path": "training/train_e53r_loao_v1.py",
+    "bytes": 56934
+  },
+  {
+    "path": "training/train_stego_structured_v33.py",
+    "bytes": 24458
+  },
+  {
+    "path": "visualization/__init__.py",
+    "bytes": 0
+  }
+]

@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and editors
+.venv/
+venv/
+.env
+.env.*
+.idea/
+.vscode/
+*.code-workspace
+
+# Local data and generated artifacts
+data/
+output/
+tmp/
+*.log
+*.zip
+
+# Model weights are release artifacts, not Git objects.
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.ckpt
+!checkpoints/README.md
+
+# Keep the curated release results only; historical runs remain local.
+results/*
+!results/release_v1.0.0/
+!results/release_v1.0.0/**
+!results/extension_e1_e7_v1.0.0/
+!results/extension_e1_e7_v1.0.0/**
+!results/external_baselines/
+!results/external_baselines/e8_release/
+!results/external_baselines/e8_release/**
+
+# Official external source checkouts and released weights are fetched locally.
+/third_party/
+
+# Local manuscript drafts and layout tooling
+/paper/
+/manuscript_revisions/
+/submission/
+/1_original.tex
+/1_polished_clean.tex
+/1_polished_layout_fixed.tex
+/1_polished_marked.tex
+/SSPG-Net_audited_revision.tex
+/SSPG-Net_tables_repositioned.tex
+/adjust_figure_layout.py
+/make_marked_and_verify.py
+/verify_layout_fixed.py
+/paper_figures/
+/SSPG-Net-Reference-Implementation-V1.0/
+/references_audited.bib
+/deliverables/
+/.public-release-staging/
+
+
+# Historical experiment entry points and dataset-dependent legacy tests remain
+# local. The v1.0.0 repository tracks the frozen E5.3R protocol and its tests.
+/training/train_*.py
+!/training/train_e53r_joint_v1.py
+!/training/train_e53r_loao_v1.py
+!/training/train_e53r_ablation_v1.py
+!/training/train_stego_structured_v33.py
+/tests/test_*.py
+!/tests/test_e53r_*.py
+/evaluation/*.py
+!/evaluation/__init__.py
+!/evaluation/audit_detection_dataset.py
+/preprocessing/generate_e7_provenance_benchmark.py
+/preprocessing/generate_e7_provenance_benchmark_v3.py
+
+# Accidental empty marker files from local experiments
+/evidence
+/evidence-aware
+/frozen
+/provenance
+/reference-free
+/trainable
+
+# LaTeX build products
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz

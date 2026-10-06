@@ -1,0 +1,8 @@
+{
+  "split": "val",
+  "frozen_checkpoint": "checkpoints/e53r_joint_v1_best.pth",
+  "nominal_knn_k": 8,
+  "knn_k_values": [4, 8, 12, 16],
+  "gnn_depth": 2,
+  "test_set_tuning": false
+}

@@ -1,0 +1,33 @@
+{
+  "experiment": "E5.3R-4C-3",
+  "name": "Representation Ablation Audit",
+  "scope": "validation_only",
+  "training_performed": false,
+  "optimizer_step_performed": false,
+  "checkpoint_modified": false,
+  "test_accessed": false,
+  "posthoc_threshold_optimization": false,
+  "frozen_detection_threshold": 0.960035,
+  "localization_threshold": 0.5,
+  "conditions": [
+    "FULL",
+    "VISUAL_ONLY",
+    "WRONG_PAYLOAD",
+    "EVIDENCE_ONLY_ABLATION"
+  ],
+  "evidence_only_interpretation": "Representation ablation only; not a separately trained provenance-only model.",
+  "contribution_summary": {
+    "authentic_det_logit_contribution_mean": 0.7906552433006225,
+    "authentic_det_logit_contribution_median": 0.34874582290649414,
+    "manipulated_det_logit_contribution_mean": 2.627639690714498,
+    "manipulated_det_logit_contribution_median": 2.0818734169006348,
+    "manipulated_loc_spatial_contrast_mean": 0.5482842640410508,
+    "manipulated_loc_spatial_contrast_median": 0.5691161123104393,
+    "manipulated_loc_spatial_contrast_positive_fraction": 1.0
+  },
+  "reproduction_check": {
+    "FULL_vs_4C2_NORMAL": 1.7881393432617188e-07,
+    "VISUAL_ONLY_vs_4C2_ZERO_EVIDENCE": 1.1920928955078125e-07,
+    "WRONG_PAYLOAD_vs_4C2_WRONG_PAYLOAD": 1.1920928955078125e-07
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "experiment": "E5_BENIGN_PROCESSING_ROBUSTNESS",
+  "source_split": "val",
+  "checkpoint": "checkpoints/e53r_joint_v1_best.pth",
+  "detection_threshold_source": "frozen_validation_summary",
+  "localization_threshold": 0.5,
+  "retrain": false,
+  "conditions": [
+    {"type": "jpeg", "quality": 95},
+    {"type": "jpeg", "quality": 85},
+    {"type": "jpeg", "quality": 75},
+    {"type": "jpeg", "quality": 50},
+    {"type": "resize", "scale": 0.75},
+    {"type": "resize", "scale": 1.0},
+    {"type": "resize", "scale": 1.25},
+    {"type": "gaussian_blur", "sigma": 0.5},
+    {"type": "gaussian_blur", "sigma": 1.0}
+  ],
+  "metrics": ["bit_accuracy", "ber", "roc_auc", "false_positive_rate", "localization_pixel_f1", "localization_pixel_iou"]
+}

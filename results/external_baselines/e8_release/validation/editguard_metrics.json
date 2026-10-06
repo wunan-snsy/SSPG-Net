@@ -1,0 +1,16 @@
+{
+  "sources": 62,
+  "samples": 124,
+  "pixel_f1": 0.8625310949024175,
+  "pixel_iou": 0.7582898231652511,
+  "pixel_tp": 750851,
+  "pixel_fp": 103224,
+  "pixel_fn": 136115,
+  "localization_threshold": 0.2,
+  "detection_auc": null,
+  "detection_f1": null,
+  "editguard_protected_psnr": 34.76076208506668,
+  "sspg_protected_psnr": 40.04761076229305,
+  "editguard_pooled_mse": 0.00033413640177127734,
+  "sspg_pooled_mse": 9.890970891662022e-05
+}

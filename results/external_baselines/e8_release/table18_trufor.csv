@@ -1,0 +1,3 @@
+Method,Evaluation input,AUC,Balanced Accuracy,Detection F1,Sensitivity,Specificity,Pixel F1,Pixel IoU
+SSPG-Net,SSPG-protected E1 Test,0.9980,0.9762,0.9756,0.9524,1.0000,0.7759,0.6338
+TruFor,official pretrained model; identical SSPG-protected E1 Test inputs,0.9642,0.8889,0.8889,0.8889,0.8889,0.8029,0.6707

@@ -1,0 +1,5 @@
+condition,bit_accuracy_percent,exact_accuracy_percent
+STEGO,94.337897,0.334448
+ORIGINAL,49.725648,0.000000
+WRONG_STEGO,50.399770,0.000000
+ZERO,49.976484,0.000000

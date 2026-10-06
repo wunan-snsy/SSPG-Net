@@ -1,0 +1,32 @@
+{
+  "trufor": {
+    "repository_url": "https://github.com/grip-unina/TruFor",
+    "commit": "ae54475df6f41a491d7615100feb19263dec13f7",
+    "checkpoint_filename": "trufor.pth.tar",
+    "checkpoint_sha256": "ac1d90e329a72e0d66e8665e123a19e94bfae3209c3ef8a4f9ca3b91578c7844",
+    "score_orientation": "higher=manipulation",
+    "preprocessing": "Exact float E1 received tensor scaled by 255/256",
+    "detection_threshold_source": "Validation Youden J",
+    "detection_threshold": 0.6856030225753784,
+    "localization_threshold": 0.5,
+    "inference_command": "python scripts/e8_trufor.py"
+  },
+  "editguard": {
+    "repository_url": "https://github.com/xuanyuzhang21/EditGuard",
+    "commit": "174778fb371640bb31b32fcb9f7bfd440c88766b",
+    "checkpoint_filename": "clean.pth",
+    "checkpoint_sha256": "b967b91b94a464ab73f82db63a57ee818e6fc5d99d7ae6aa094a1777cac977d5",
+    "score_orientation": "higher=max RGB residual means manipulation",
+    "preprocessing": "256x256 E1 original, official protection, E1 attack geometry",
+    "localization_threshold": 0.2,
+    "inference_command": "python scripts/e8_editguard.py"
+  },
+  "runtime": {
+    "python": "3.12.10",
+    "pytorch": "2.14.0+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "batch_size": 1,
+    "precision": "float32"
+  }
+}

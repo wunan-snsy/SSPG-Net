@@ -1,0 +1,78 @@
+# SSPG-Net IMD2020 Experiment V1
+#
+# Real-data experimental configuration.
+# Parameters marked ASSUMPTION remain engineering choices
+# because the manuscript does not fully specify them.
+
+seed: 42
+device: cuda
+
+# --------------------------------------------------
+# Input
+# --------------------------------------------------
+
+image_size: 128
+patch_size: 16
+
+# --------------------------------------------------
+# Training
+# --------------------------------------------------
+
+batch_size: 4
+epochs: 20
+
+learning_rate: 0.0001
+weight_decay: 0.0001
+
+gradient_clip: 1.0
+
+# Balance TRAIN sampling only.
+# Validation/test retain their natural distribution.
+balanced_sampling: true
+
+# --------------------------------------------------
+# Localization
+# --------------------------------------------------
+
+# Fraction of manipulated pixels required for a
+# patch to be considered manipulated.
+#
+# V1 engineering assumption.
+localization_coverage_threshold: 0.05
+
+localization_probability_threshold: 0.5
+
+# --------------------------------------------------
+# Model
+# --------------------------------------------------
+
+message_channels: 1
+stego_strength: 0.02
+
+embed_dim: 128
+depth: 2
+num_heads: 4
+
+gnn_hidden: 128
+gnn_layers: 2
+graph_k: 4
+
+adapter_bottleneck: 48
+
+# --------------------------------------------------
+# Loss
+# --------------------------------------------------
+
+loss_weights:
+  detection: 1.0
+  localization: 1.0
+  provenance: 0.0
+
+# --------------------------------------------------
+# Experiment metadata
+# --------------------------------------------------
+
+dataset: IMD2020
+experiment_name: imd2020_experiment_v1
+
+provenance_supervision: false

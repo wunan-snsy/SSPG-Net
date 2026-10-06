@@ -1,0 +1,3 @@
+Method,Protection mechanism,Sources,Pixel F1,Pixel IoU,Protected-image PSNR
+SSPG-Net,SSPG protection,63,0.7759,0.6338,40.0403
+EditGuard,"official clean checkpoint; same sources and attack geometry, method-specific protected images",63,0.8783,0.7830,36.4362

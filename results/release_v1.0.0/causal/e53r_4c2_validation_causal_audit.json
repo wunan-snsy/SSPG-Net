@@ -1,0 +1,23 @@
+{
+  "experiment": "E5.3R-4C-2",
+  "scope": "validation_only",
+  "training_performed": false,
+  "optimizer_step_performed": false,
+  "checkpoint_modified": false,
+  "test_accessed": false,
+  "posthoc_causal_pass_threshold": false,
+  "validation_sources": 62,
+  "validation_active_samples": 124,
+  "normal_selected_detection_threshold": 0.960034966468811,
+  "localization_threshold": 0.5,
+  "normal_detection_auc": 0.9963579604578564,
+  "wrong_payload_detection_auc": 0.9620187304890739,
+  "zero_evidence_detection_auc": 0.9877731529656608,
+  "wrong_payload_auc_delta": -0.03433922996878247,
+  "zero_evidence_auc_delta": -0.00858480749219559,
+  "normal_localization_f1": 0.7752914754418514,
+  "wrong_payload_localization_f1": 0.19782565848414263,
+  "zero_evidence_localization_f1": 0.15095828786862478,
+  "wrong_payload_loc_f1_delta": -0.5774658169577087,
+  "zero_evidence_loc_f1_delta": -0.6243331875732266
+}

@@ -1,0 +1,20 @@
+# SSPG-Net Reference Implementation V1.0
+# Smoke-test configuration. Values marked ASSUMPTION are engineering defaults, not claimed paper settings.
+seed: 42
+device: cuda
+image_size: 128        # ASSUMPTION: reduced for 6GB smoke test
+patch_size: 16         # concept aligned with ViT patching
+batch_size: 2
+message_channels: 1    # ASSUMPTION: grayscale reference message
+stego_strength: 0.02   # ASSUMPTION
+embed_dim: 128         # ASSUMPTION: tiny smoke-test backbone
+depth: 2               # ASSUMPTION
+num_heads: 4            # ASSUMPTION
+gnn_hidden: 128         # ASSUMPTION
+gnn_layers: 2           # ASSUMPTION
+graph_k: 4              # ASSUMPTION
+adapter_bottleneck: 48  # engineering default
+loss_weights:
+  detection: 1.0
+  localization: 1.0
+  provenance: 1.0

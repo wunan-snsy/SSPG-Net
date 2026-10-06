@@ -1,0 +1,6 @@
+{
+  "definition": "-10*log10(pooled squared error / pooled RGB element count)",
+  "sources": 63,
+  "editguard_psnr": 36.43621761689473,
+  "sspg_psnr": 40.040292823001884
+}

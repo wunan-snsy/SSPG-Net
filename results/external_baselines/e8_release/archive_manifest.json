@@ -1,0 +1,116 @@
+{
+  "format": "SSPG-Net E8 portable compact artifacts v1",
+  "source_verification": "PASS",
+  "files": [
+    {
+      "path": "audit_report.md",
+      "bytes": 1495,
+      "sha256": "4b3a0dc0387bf3dc2d0f6dcb206860ce6a7c7c53172f844af1af9d4207134ef0"
+    },
+    {
+      "path": "bootstrap/bootstrap_results.csv",
+      "bytes": 740,
+      "sha256": "df33b23a8c0ee5c7b306cc429ebd451ddbc9e9b050e36bf7078bb404db7f8ee3"
+    },
+    {
+      "path": "compatibility_notes.md",
+      "bytes": 2267,
+      "sha256": "9e32d86e83810e20d72037a94c9045aa33c70a75019d5c3b6c9f375ad6c8371c"
+    },
+    {
+      "path": "e8_summary.md",
+      "bytes": 6158,
+      "sha256": "4cc5731ee9a3e0c959f779562f259cd017582e1a31dc0679c7392d75888dfb58"
+    },
+    {
+      "path": "e8_verification.json",
+      "bytes": 1915,
+      "sha256": "0ec37b88addae72906855feb3462404106dbf611ed8177c0dedd5309751a432b"
+    },
+    {
+      "path": "editguard_adapter_audit.json",
+      "bytes": 1041,
+      "sha256": "72ec95f24701a09dc094b0f609bbfd9e405ec9ed62517447a945632dd52df795"
+    },
+    {
+      "path": "preflight/metrics.json",
+      "bytes": 635,
+      "sha256": "bcf5facb19767daa50497d06d20975f3b110fb9e580ff3939eacb37470c4fbcb"
+    },
+    {
+      "path": "preflight/test_predictions.csv",
+      "bytes": 16599,
+      "sha256": "9b23154d31789c6dd77c0bd80e537029ce783c006349e05460b73c42bbe77551"
+    },
+    {
+      "path": "protocol_manifest.json",
+      "bytes": 69853,
+      "sha256": "8bcc7e035ba6587261a589d364090077bf849f10818e7c3e0aa3faa9555dc423"
+    },
+    {
+      "path": "repo_versions.json",
+      "bytes": 1317,
+      "sha256": "b9e39a1d62c701b1baa6c4b65e804e8f00f98a1ea0a7b0cb177fe3ab68ec931e"
+    },
+    {
+      "path": "reviewer_audit.md",
+      "bytes": 3249,
+      "sha256": "f61af60406894906b6fda7811a729018b7c4b881a7d7a5da5b50afdb821912e8"
+    },
+    {
+      "path": "table18_trufor.csv",
+      "bytes": 306,
+      "sha256": "1754a7dd81f92dc7dad7e50e5ad1d52a4ca51c2eb6a5a17fd701730a52e63ba0"
+    },
+    {
+      "path": "table19_editguard.csv",
+      "bytes": 257,
+      "sha256": "75cb0dfabc0ca4aecbac6ef7458ff2da015e87fa99e66e48e2b1019f754efe2f"
+    },
+    {
+      "path": "test/editguard_fidelity.json",
+      "bytes": 171,
+      "sha256": "96445f79c4c5a9a28fbca7dfdfaa3a65967e9dac371bc0e48330ab62c80ea223"
+    },
+    {
+      "path": "test/editguard_metrics.json",
+      "bytes": 441,
+      "sha256": "8963fb226719eb027b8694a6a13e20e1737d99fe45c18e603a1da4d01e343dc9"
+    },
+    {
+      "path": "test/editguard_predictions.csv",
+      "bytes": 23022,
+      "sha256": "126deb489deb468fba2ba4ffb5b25a81cdfc6f473e53069e74339f47f2936e9e"
+    },
+    {
+      "path": "test/trufor_metrics.json",
+      "bytes": 460,
+      "sha256": "5e74e56a8bce83bc22cbaee775fe31f9b37ac4fa9f9c39b177f7c763edbf593e"
+    },
+    {
+      "path": "test/trufor_predictions.csv",
+      "bytes": 25336,
+      "sha256": "3025f223e53030a3527a5bcb0c9836c81cc9d1012ba425870d4b3a42b741f090"
+    },
+    {
+      "path": "validation/editguard_metrics.json",
+      "bytes": 441,
+      "sha256": "0cf3745e225f750763e0b4c712555ad8a35f4be6f3f642822998c335632221b6"
+    },
+    {
+      "path": "validation/editguard_predictions.csv",
+      "bytes": 22631,
+      "sha256": "2913072880b3236e5e7fb4f8a8870af5dcbbbf8ce3ae575b3557c2188b0b6ac0"
+    },
+    {
+      "path": "validation/trufor_calibration.json",
+      "bytes": 252,
+      "sha256": "e404f3b18e1b204ad16551ee95ef8a2d49ebb5ef628f97ed32feb76acdeb6f54"
+    },
+    {
+      "path": "validation/trufor_predictions.csv",
+      "bytes": 24910,
+      "sha256": "0af57041d31f1c3a1afa06fbb9db740ff5082ccddbed70d9b67436df4b0d9761"
+    }
+  ]
+}

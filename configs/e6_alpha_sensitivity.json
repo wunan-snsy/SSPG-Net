@@ -1,0 +1,8 @@
+{
+  "split": "val",
+  "frozen_checkpoint": "checkpoints/e53r_joint_v1_best.pth",
+  "frozen_detection_threshold_source": "results/release_v1.0.0/joint/e53r_joint_v1_summary.csv",
+  "nominal_alpha": 0.01,
+  "alpha_values": [0.005, 0.0075, 0.01, 0.0125, 0.015, 0.02],
+  "test_set_tuning": false
+}

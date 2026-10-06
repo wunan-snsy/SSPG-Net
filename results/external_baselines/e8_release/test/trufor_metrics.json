@@ -1,0 +1,17 @@
+{
+  "roc_auc": 0.964222726127488,
+  "balanced_accuracy": 0.8888888888888888,
+  "detection_f1": 0.8888888888888888,
+  "sensitivity": 0.8888888888888888,
+  "specificity": 0.8888888888888888,
+  "pixel_f1": 0.8029248353003897,
+  "pixel_iou": 0.6707388633376858,
+  "pixel_tp": 796711,
+  "pixel_fp": 269743,
+  "pixel_fn": 121357,
+  "pixel_tn": 7069725,
+  "detection_threshold": 0.6856030225753784,
+  "localization_threshold": 0.5,
+  "sources": 63,
+  "samples": 126
+}

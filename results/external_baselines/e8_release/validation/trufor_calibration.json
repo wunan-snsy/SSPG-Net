@@ -1,0 +1,9 @@
+{
+  "threshold": 0.6856030225753784,
+  "youden_j": 0.8870967741935485,
+  "sources": 62,
+  "samples": 124,
+  "score_orientation": "higher=manipulation",
+  "map_threshold": 0.5,
+  "preprocessing": "Exact E1 float tensor *255/256, official TruFor scale"
+}

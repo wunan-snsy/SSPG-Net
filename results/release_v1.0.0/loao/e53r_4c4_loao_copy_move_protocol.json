@@ -1,0 +1,32 @@
+{
+  "adapter_bottleneck": 96,
+  "batch_size": 1,
+  "checkpoint_selection": "val_calibration_joint_loss",
+  "checkpoint_selection_mode": "min",
+  "detection_threshold_selection": "val_calibration_youden_j",
+  "early_stopping_patience": 5,
+  "experiment_id": "E5.3R-4C-4-2-V1",
+  "fusion_hidden_dim": 96,
+  "gnn_depth": 2,
+  "gnn_hidden_dim": 256,
+  "gradient_accumulation_steps": 4,
+  "held_out_attack": "copy_move",
+  "heldout_used_for_checkpoint": false,
+  "heldout_used_for_threshold": false,
+  "heldout_used_for_training": false,
+  "knn_k": 8,
+  "learning_rate": 0.0001,
+  "localization_threshold": 0.5,
+  "max_epochs": 20,
+  "min_delta": 0.0,
+  "protocol_sha256": "5f13c736f481eb44194befdb1ffc52a954cdb026acb8999e4987baf158135ab1",
+  "seen_attacks": [
+    "erase",
+    "roll"
+  ],
+  "test_accessed": false,
+  "train_seed": 20260922,
+  "training_seed": 20260925,
+  "val_seed": 20260923,
+  "weight_decay": 0.0001
+}
