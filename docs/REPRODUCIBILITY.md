@@ -2,11 +2,11 @@
 
 ## Scope
 
-This release supports three levels of verification:
+This repository supports three levels of verification:
 
 1. **Implementation smoke test:** executes a compact forward/backward pass without IMD2020.
 2. **Artifact verification:** checks the released CSV/JSON inventory, headline values, validation-only status, and file hashes.
-3. **Formal rerun:** reconstructs the frozen joint, causal, LOAO, and ablation experiments using IMD2020 and the required provenance checkpoint.
+3. **Formal rerun:** reconstructs the frozen joint, causal, LOAO, and ablation experiments and the separately labeled E1--E8 extensions using the required datasets and checkpoints.
 
 ## Locally verified environment
 
@@ -45,11 +45,11 @@ The formal joint script expects 289 train source records and 62 validation sourc
 
 ## Outputs
 
-Fresh runs write checkpoints to `checkpoints/` and CSV/JSON outputs to `results/csv/`. These generated directories are intentionally ignored by Git. Compare new outputs against `results/release_v1.0.0/` without overwriting the released evidence.
+Fresh runs write checkpoints to `checkpoints/` and CSV/JSON outputs to `results/csv/`. These generated directories are intentionally ignored by Git. Compare new outputs against `results/release_v1.0.0/`, `results/extension_e1_e7_v1.0.0/`, and `results/external_baselines/e8_release/` without overwriting the released evidence. E8 source scripts are in `scripts/e8_*.py`; the E8 release omits dense score maps, source images, and external model weights.
 
 ## Known boundaries
 
 - The paper reports a controlled active-forensics protocol derived from one dataset.
 - The formal headline values are validation results, not independent final-test results.
 - The training-level ablations use different trainable parameter counts and are architecture-level comparisons rather than parameter-matched interventions.
-- Independent final-test, cross-dataset, and broader post-processing evaluations remain future validation work.
+- The later E1 and E8 extensions use a 63-source test split, and E4 reports a CASIA2 cross-dataset evaluation. Their protocols and limitations are recorded with those extension results. Broader post-processing and dataset validation remain future work.
