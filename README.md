@@ -4,7 +4,7 @@ Reference implementation and experiment artifacts for **Self-Steganographic Prov
 
 SSPG-Net is an active image-forensics framework. Before distribution, it embeds a structured 128-bit fragile provenance payload into an image. At verification time, a frozen residual-aware decoder turns payload inconsistency into a spatial evidence map. The model combines this evidence with visual patch representations and graph reasoning to perform joint image-level forgery detection and patch-level localization.
 
-> **Evaluation scope.** The headline results in this repository were obtained on a predefined, leakage-clean validation split derived from IMD2020. The final test partition was not accessed in the formal joint, causal, LOAO, or ablation experiments. These numbers should not be described as independent test-set or cross-dataset performance.
+> **Evaluation scope.** The v1.0.0 headline table below reports results on the IMD2020 Validation split. The subsequent E1 extension evaluates the downstream SSPG-Net model on the 63-source IMD2020 Test split, E4 examines transfer to CASIA2 authentic source images under the same controlled manipulation protocol, and E8 reuses the E1 Test sources for external-method comparisons. Because the payload decoder was pretrained using an earlier IMD2020 manifest with identified source-content overlap, the E1 results should not be interpreted as a strictly source-independent evaluation of every pretrained component in the pipeline.
 
 ## Results included in v1.0.0
 
