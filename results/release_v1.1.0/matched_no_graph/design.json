@@ -1,0 +1,16 @@
+{
+  "experiment_id": "CLEAN-BUDGET142-E2-PARAM-MATCHED-NO-GRAPH-V2",
+  "model_code_sha256": "b285db856fff3ae7b5ed9277a2d7d917705a42ca3d667ea94fd1b8b30afcfe48",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "training_seeds": [
+    20261001,
+    20261002,
+    20261003
+  ],
+  "comparison": "Each matched NO_GRAPH seed pairs with an already completed E2 FULL seed",
+  "training": "Unchanged E2 Train/Validation data and protocol; three new matched-control runs only",
+  "pilot_excluded": true,
+  "test_accessed": false,
+  "E9_accessed": false,
+  "started_at": "2026-10-11T10:34:06+0800"
+}

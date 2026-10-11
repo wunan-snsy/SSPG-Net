@@ -1,0 +1,10 @@
+{
+  "experiment_id": "CLEAN-BUDGET142-E2-PARAM-MATCHED-NO-GRAPH-20261003-V2",
+  "training_seed": 20261003,
+  "protocol_sha256": "06ff5cbe0d0c4a3bb030c8906868d657d777cc08fcaf17f97b6ccba9e29dcd5d",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "model_code_sha256": "b285db856fff3ae7b5ed9277a2d7d917705a42ca3d667ea94fd1b8b30afcfe48",
+  "checkpoint_sha256": "ca8934c284a5399d6c6217a2b21d4a71267f4d40be590beef50950a0b159af35",
+  "summary_sha256": "dc5460aea6815550b9c7020e8e755f87de575466f20117aa646f02723ba50ecb",
+  "test_accessed": false
+}

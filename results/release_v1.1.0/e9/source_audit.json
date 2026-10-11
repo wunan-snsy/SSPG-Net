@@ -1,0 +1,17 @@
+{
+  "experiment": "E9 Independent Source-Image and Small-Region Evaluation",
+  "source_dataset": "COCO val2017",
+  "available_jpgs": 5000,
+  "validated_jpgs": 5000,
+  "invalid_jpgs": [],
+  "selected_sources": 200,
+  "selection_salt": "E9-COCO-VAL2017-200-SOURCES-V1",
+  "selection_rule": "Sort SHA256(salt|filename); take first 200 with no exact file or conservative pHash/dHash <=6 match against prior IMD2020/CASIA2 images and already selected COCO images.",
+  "imd_compared": 2424,
+  "casia_compared": 1000,
+  "near_hash_distance_cutoff": 6,
+  "rejected_before_selection_complete": [],
+  "source_manifest_sha256": "2e9789072ad67991a157dd24cbc527f07239073628ccd38b27958cd0ce325c40",
+  "audit_limit": "Hash checks screen exact and visual near duplicates; they do not prove absence of crops or semantic duplicates.",
+  "model_outputs_consulted": false
+}

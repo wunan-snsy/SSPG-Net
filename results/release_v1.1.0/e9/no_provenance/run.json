@@ -1,0 +1,10 @@
+{
+  "variant": "no_provenance",
+  "device": "cuda",
+  "protocol_sha256": "509b86da6ad78926dd562055f45fadad06891d515dc2ba9ad7334d45835bfb2f",
+  "checkpoint_sha256": "091d945832924e881f1e3e100bf72ff19d6dea7a53d32b88c8f3ddde494fe848",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "status": "COMPLETE",
+  "prediction_rows": 2600,
+  "predictions_sha256": "685d22b6c6c358979b9bfcfef874f0a9620a039e2015a9bd059e25a1af1d9f3e"
+}

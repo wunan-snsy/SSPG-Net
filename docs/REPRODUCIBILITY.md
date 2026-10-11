@@ -8,6 +8,12 @@ This repository supports three levels of verification:
 2. **Artifact verification:** checks the released CSV/JSON inventory, headline values, validation-only status, and file hashes.
 3. **Formal rerun:** reconstructs the frozen joint, causal, LOAO, and ablation experiments and the separately labeled E1--E8 extensions using the required datasets and checkpoints.
 
+The v1.1.0 supplement adds a fourth, read-only check:
+`python scripts/verify_release_v1_1_0.py`. It verifies E9 manifest and
+prediction hashes, the reported small-region values, all three
+Validation-only matched-control records, and the selected Figure 8 maps.
+It does not require source images or the separately archived weights.
+
 ## Locally verified environment
 
 The v1.0.0 release was checked on Windows with Python 3.12 and an NVIDIA CUDA environment containing:
@@ -32,6 +38,7 @@ The broad compatible ranges in `requirements.txt` avoid forcing a CUDA-incompati
 ```bash
 python main.py --config configs/rtx3060_6gb.yaml --mode smoke_test
 python scripts/verify_release.py
+python scripts/verify_release_v1_1_0.py
 ```
 
 ## Formal inputs

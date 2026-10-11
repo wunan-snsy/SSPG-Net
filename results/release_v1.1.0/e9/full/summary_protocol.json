@@ -1,0 +1,16 @@
+{
+  "variant": "full",
+  "sources": 200,
+  "samples": 2600,
+  "detection_threshold": 0.6624471545219421,
+  "localization_threshold": 0.5,
+  "primary_band": "15_30",
+  "bootstrap_seed": 20261012,
+  "bootstrap_replicates": 2000,
+  "metric_definitions": {
+    "pixel_f1": "Micro pooled over 200 authentic and 600 manipulated samples per band.",
+    "manipulated_pixel_f1": "Micro pooled over 600 manipulated samples per band.",
+    "boundary_f1_2px": "Micro boundary precision/recall on manipulated samples, 8-connected one-pixel boundary, 2-pixel tolerance.",
+    "detection_f1": "200 authentic plus 600 manipulated samples per band, fixed Validation threshold."
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "group": "E9",
+    "file": "SSPG-Net-v1.1.0-E9-checkpoints.zip",
+    "bytes": 1070537782,
+    "sha256": "e52ba4fe1dc664dbe04ab4f8ecbdc46457dc01d009ed4e789f9c5761b74cc6fb",
+    "checkpoint_count": 4
+  },
+  {
+    "group": "E2_FULL",
+    "file": "SSPG-Net-v1.1.0-E2-FULL-three-seeds.zip",
+    "bytes": 1081337328,
+    "sha256": "d844e24020817694db30faa0197271db99685a7f6ea747771760512421403796",
+    "checkpoint_count": 3
+  },
+  {
+    "group": "E2_MATCHED_NO_GRAPH",
+    "file": "SSPG-Net-v1.1.0-E2-matched-NO_GRAPH-three-seeds.zip",
+    "bytes": 1081187028,
+    "sha256": "2cc584674e1f25a9032ae1bf83af42e5645e6732710d4e009c609466e61d49f5",
+    "checkpoint_count": 3
+  }
+]
