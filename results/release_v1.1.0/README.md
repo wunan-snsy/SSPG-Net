@@ -61,5 +61,7 @@ previously inspected IMD2020 Test sources and is not independent evidence.
 
 The large `.pth` files are deliberately excluded from Git. Their ten
 per-file hashes and the hashes of three ZIP bundles are published in the
-indices above. A separate public archive location must be supplied before
-the manuscript describes the checkpoint bundles as publicly available.
+indices above. The three ZIP bundles and `SHA256SUMS` are separate assets
+of the [v1.1.0 GitHub release](https://github.com/wunan-snsy/SSPG-Net/releases/tag/v1.1.0).
+GitHub reports matching asset sizes and SHA-256 digests. This release
+does not assign a DOI to the new checkpoint bundles.

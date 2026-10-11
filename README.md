@@ -27,7 +27,9 @@ and the Clean-142 FULL Figure 8 selection and provenance records. E9 uses
 200 new COCO val2017 source images and controlled manipulations; it is not
 an evaluation of COCO-native forgeries. The matched control is a
 Validation-only capacity comparison. The ten checkpoint files are indexed
-by SHA-256 and packaged separately from Git. Run
+by SHA-256 and packaged separately from Git as three assets of the
+[v1.1.0 release](https://github.com/wunan-snsy/SSPG-Net/releases/tag/v1.1.0).
+Run
 `python scripts/verify_release_v1_1_0.py` to check the small evidence package.
 
 ## Repository layout
@@ -95,7 +97,7 @@ Use `--help` on an entry point before launching a run. Formal scripts refuse uns
 
 ## Data, weights, and availability
 
-The IMD2020 images are not redistributed. Large trained checkpoints are excluded from Git and are intended for a Zenodo checkpoint record. The clean split manifest, per-run protocols, histories, predictions, and summary tables are included. See [`docs/DATA.md`](docs/DATA.md) and [`checkpoints/README.md`](checkpoints/README.md).
+The IMD2020 images are not redistributed. The ten checkpoints needed for the v1.1.0 E9 and matched-control supplement are distributed as three separately hashed [release assets](https://github.com/wunan-snsy/SSPG-Net/releases/tag/v1.1.0), not in Git. Other historical checkpoints are not included in that bundle. The clean split manifest, per-run protocols, histories, predictions, and summary tables are included. See [`docs/DATA.md`](docs/DATA.md) and [`checkpoints/README.md`](checkpoints/README.md).
 
 ## Citation
 

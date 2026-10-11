@@ -6,8 +6,9 @@ control, and the Clean-142 FULL Figure 8 provenance record. The model
 method and earlier frozen results are unchanged. See
 `results/release_v1.1.0/README.md` and `results/release_v1.1.0/SHA256SUMS`.
 Large checkpoint bundles are stored outside Git and identified by the
-published `WEIGHT_INDEX.json` and `weights_SHA256SUMS` files. The archive
-location must be filled in only after a public deposit is verified.
+published `WEIGHT_INDEX.json` and `weights_SHA256SUMS` files. The three
+ZIP bundles and their `SHA256SUMS` file are separate assets of the
+[v1.1.0 GitHub release](https://github.com/wunan-snsy/SSPG-Net/releases/tag/v1.1.0).
 
 ## Earlier v1.0.0 release
 
