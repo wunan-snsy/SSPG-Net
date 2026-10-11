@@ -1,0 +1,62 @@
+[
+  {
+    "group": "E9",
+    "path": "checkpoints/clean_revision_v2/decoder_budget142/best.pth",
+    "bytes": 111311,
+    "sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758"
+  },
+  {
+    "group": "E9",
+    "path": "checkpoints/clean_revision_v2/budget142_full_best.pth",
+    "bytes": 360470549,
+    "sha256": "1848c54ec1a258ed63f063aab1cac6eca8a519f42f729280932cce465a2fd6ba"
+  },
+  {
+    "group": "E9",
+    "path": "checkpoints/clean_revision_v2/budget142_no_provenance_best.pth",
+    "bytes": 359875393,
+    "sha256": "091d945832924e881f1e3e100bf72ff19d6dea7a53d32b88c8f3ddde494fe848"
+  },
+  {
+    "group": "E9",
+    "path": "checkpoints/clean_revision_v2/budget142_no_graph_best.pth",
+    "bytes": 350078813,
+    "sha256": "f4e2c5562d726fd33acfc3841007d18ddd17fba4bebc17d04aac8ac2902c99b1"
+  },
+  {
+    "group": "E2_FULL",
+    "path": "results/clean_revision_v2/budget142_e2/full/20261001/best.pth",
+    "bytes": 360445318,
+    "sha256": "5d299b69065b4d89f534c24cdec9ec72f504bc588d2d2481f71b5c9c17a7e027"
+  },
+  {
+    "group": "E2_FULL",
+    "path": "results/clean_revision_v2/budget142_e2/full/20261002/best.pth",
+    "bytes": 360445318,
+    "sha256": "c0779bfcabdf3a5864874ec1090b30625edf09e5643cf4840b12cb50c3e801bc"
+  },
+  {
+    "group": "E2_FULL",
+    "path": "results/clean_revision_v2/budget142_e2/full/20261003/best.pth",
+    "bytes": 360445318,
+    "sha256": "1f669366de79a029c357406f4bfd541e33af5426da1c1c9ec4d5491236580a32"
+  },
+  {
+    "group": "E2_MATCHED_NO_GRAPH",
+    "path": "results/clean_revision_v2/budget142_param_matched_no_graph_e2/20261001/best.pth",
+    "bytes": 360395152,
+    "sha256": "3d9a9c624d1bfb7349fbfedc88258fe03ccf592195c1052bf80efec808dc3c07"
+  },
+  {
+    "group": "E2_MATCHED_NO_GRAPH",
+    "path": "results/clean_revision_v2/budget142_param_matched_no_graph_e2/20261002/best.pth",
+    "bytes": 360395152,
+    "sha256": "7a071f74ca0e037280142f24ed0ff4d02b09cc1211579d0e5f632e08bd2032d5"
+  },
+  {
+    "group": "E2_MATCHED_NO_GRAPH",
+    "path": "results/clean_revision_v2/budget142_param_matched_no_graph_e2/20261003/best.pth",
+    "bytes": 360395152,
+    "sha256": "ca8934c284a5399d6c6217a2b21d4a71267f4d40be590beef50950a0b159af35"
+  }
+]

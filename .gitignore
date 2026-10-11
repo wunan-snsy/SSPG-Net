@@ -34,6 +34,8 @@ checkpoints/*.ckpt
 results/*
 !results/release_v1.0.0/
 !results/release_v1.0.0/**
+!results/release_v1.1.0/
+!results/release_v1.1.0/**
 !results/extension_e1_e7_v1.0.0/
 !results/extension_e1_e7_v1.0.0/**
 !results/external_baselines/

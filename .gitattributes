@@ -9,3 +9,5 @@
 *.bib text eol=lf
 *.cff text eol=lf
 *.pdf binary
+results/release_v1.1.0/** -text
+manifests/e9_coco2017/** -text

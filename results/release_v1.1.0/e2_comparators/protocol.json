@@ -1,0 +1,18 @@
+{
+  "experiment_id": "CLEAN-BUDGET142-E2-V2",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "models": [
+    "full",
+    "no_graph",
+    "no_provenance"
+  ],
+  "training_seeds": [
+    20261001,
+    20261002,
+    20261003
+  ],
+  "source": "Frozen historical E2 three-seed design; no Test access.",
+  "selection": "Each run uses its own Validation-selected checkpoint and threshold.",
+  "started": "2026-10-10T09:55:59+0800",
+  "pid": 18512
+}

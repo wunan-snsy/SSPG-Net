@@ -9,3 +9,11 @@ The frozen provenance decoder required by the formal protocol is:
 Local v1.0.0 SHA-256: `47e8d0131a15f6d2735c8751a80ee40c7883074c6e21c068bc7436a36e6a049e`
 
 Large checkpoints should be deposited in a versioned research archive (for example, Zenodo) and linked here with SHA-256 checksums before archival publication. No download URL or DOI is stated until such a deposit exists.
+
+The v1.1.0 supplement lists ten Clean-142 decoder, E9, and paired E2
+checkpoints in `results/release_v1.1.0/WEIGHT_INDEX.json`. The three
+separate ZIP bundles and their archive checksums are listed in
+`results/release_v1.1.0/weights_ARCHIVE_INDEX.json`. Extract them at
+repository root so that each `.pth` lands at its recorded relative path.
+These hashes identify the exact files and do not imply that the archive
+has already been deposited publicly.

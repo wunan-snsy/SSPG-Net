@@ -19,6 +19,17 @@ The frozen V3.3 provenance channel reports 94.3902% payload bit accuracy, 5.6098
 
 The E8 same-protocol external baseline artifacts are under [`results/external_baselines/e8_release`](results/external_baselines/e8_release). On the 63-source final test split, SSPG-Net and TruFor were evaluated on identical SSPG-protected inputs; EditGuard was evaluated on the same sources and attack geometry using its own protection. The E8 release includes aggregate tables, per-sample scores and pixel counts, bootstrap intervals, protocol metadata, and adapter audits. It excludes source images and third-party model weights. See the E8 README for scope and limitations.
 
+## v1.1.0 experimental supplement
+
+[`results/release_v1.1.0`](results/release_v1.1.0) contains the frozen E9
+COCO-source evaluation, the three-seed parameter-matched NO_GRAPH control,
+and the Clean-142 FULL Figure 8 selection and provenance records. E9 uses
+200 new COCO val2017 source images and controlled manipulations; it is not
+an evaluation of COCO-native forgeries. The matched control is a
+Validation-only capacity comparison. The ten checkpoint files are indexed
+by SHA-256 and packaged separately from Git. Run
+`python scripts/verify_release_v1_1_0.py` to check the small evidence package.
+
 ## Repository layout
 
 ```text
@@ -32,6 +43,7 @@ tests/                     smoke, protocol, model, and audit checks
 results/release_v1.0.0/    paper-aligned CSV/JSON artifacts
 results/extension_e1_e7_v1.0.0/  additional experiment artifacts
 results/external_baselines/e8_release/  compact E8 baseline artifacts
+results/release_v1.1.0/    E9, matched-control, and Figure 8 supplement
 docs/                      data and reproducibility documentation
 ```
 

@@ -1,0 +1,56 @@
+{
+  "id": "E9-COCO-VAL2017-V1",
+  "status": "FROZEN_BEFORE_E9_INFERENCE",
+  "source_manifest_sha256": "2e9789072ad67991a157dd24cbc527f07239073628ccd38b27958cd0ce325c40",
+  "attack_plan_sha256": "36028c9e04d5182ea500bbe8ed4d5ae3a586aed362c83ba96b87d39b274a3e9a",
+  "sources": 200,
+  "protected_authentic_per_source": 1,
+  "manipulated_per_source": 12,
+  "total_samples": 2600,
+  "bands": [
+    {
+      "id": "01_05",
+      "min_inclusive": 0.01,
+      "max_exclusive": 0.05
+    },
+    {
+      "id": "05_10",
+      "min_inclusive": 0.05,
+      "max_exclusive": 0.1
+    },
+    {
+      "id": "10_15",
+      "min_inclusive": 0.1,
+      "max_exclusive": 0.15
+    },
+    {
+      "id": "15_30",
+      "min_inclusive": 0.15,
+      "max_exclusive": 0.3
+    }
+  ],
+  "attacks": [
+    "erase",
+    "copy_move",
+    "roll"
+  ],
+  "image_size": 256,
+  "payload_bits": 128,
+  "embedding_alpha": 0.01,
+  "knn_k": 8,
+  "detection_threshold": 0.6624471545219421,
+  "localization_threshold": 0.5,
+  "payload_seed": 20261011,
+  "geometry_seed": 20261011,
+  "checkpoint_sha256": {
+    "decoder": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+    "full": "1848c54ec1a258ed63f063aab1cac6eca8a519f42f729280932cce465a2fd6ba",
+    "no_provenance": "091d945832924e881f1e3e100bf72ff19d6dea7a53d32b88c8f3ddde494fe848",
+    "no_graph": "f4e2c5562d726fd33acfc3841007d18ddd17fba4bebc17d04aac8ac2902c99b1"
+  },
+  "primary_comparison": "15_30 band: 200 protected authentic and 600 manipulated, same 1:3 class ratio as CASIA2 E4",
+  "small_region_analysis": "Each band: 200 sources x 3 attacks; report manipulated-only localization and detection recall, with shared authentic FPR separately.",
+  "bootstrap": "2,000 source-level paired resamples; seed 20261012; fixed thresholds",
+  "no_graph_interpretation": "Structure ablation only; parameters not matched.",
+  "source_distribution_limit": "COCO images are authentic sources for controlled attacks, not native forgery annotations."
+}

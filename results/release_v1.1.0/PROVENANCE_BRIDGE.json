@@ -1,0 +1,9 @@
+{
+  "note": "Portable CSV/JSON copies only rewrite local paths; frozen files retain their original SHA-256 values.",
+  "frozen_source_manifest_sha256": "2e9789072ad67991a157dd24cbc527f07239073628ccd38b27958cd0ce325c40",
+  "relative_source_manifest_sha256": "6a20c9b712cf62e927e46faad7da0396ae87855b640d7d8908b7dacf69255db3",
+  "frozen_figure8_selection_sha256": "b4bf2648117f5109ec5f8073c6793e1ca86c2661b87e1176da37a43d19e99fbf",
+  "relative_figure8_selection_sha256": "2b1e7c74a02ec5ef6172d91ddd234d70f5d9733628f2995ca4661e1cc5783a00",
+  "frozen_figure8_provenance_sha256": "138a255327c4493472020e238f011b51685cef245139499412f1e5001ff54dbc",
+  "relative_figure8_provenance_sha256": "309c4f9418a48616d3e5b67322993d12daf426f14e7d250faf8d1ce44211238b"
+}
