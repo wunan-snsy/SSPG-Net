@@ -12,7 +12,7 @@
 
 - **Unpublished manuscript files.** The paper source and bibliography are kept outside GitHub. The Figure 8 evidence plate is included in the v1.1.0 supplement for provenance review.
 - **IMD2020 image files.** Obtain them from the original dataset provider and comply with the provider's terms. This repository does not assert a right to redistribute them.
-- **Large trained checkpoints.** The formal joint, LOAO, ablation, and multiseed checkpoints are excluded from Git. The ten checkpoints needed for E9 and the matched-control comparison have separately prepared ZIP bundles and published SHA-256 indices in `results/release_v1.1.0/`. Their public archive address will be added only after deposit is verified.
+- **Large trained checkpoints in Git.** The ten checkpoints needed for E9 and the matched-control comparison are distributed outside Git as three ZIP assets of the [v1.1.0 GitHub release](https://github.com/wunan-snsy/SSPG-Net/releases/tag/v1.1.0). Their per-file and archive SHA-256 indices are in `results/release_v1.1.0/`. Other historical formal joint, LOAO, and ablation checkpoints are not included in this bundle.
 - **Historical local runs.** Results not aligned with the manuscript's frozen protocol remain excluded to prevent mixing development experiments with reported evidence.
 
 ## Expected local layout
@@ -35,7 +35,7 @@ Manifest paths are interpreted relative to `data/imd2020`. The original v1.0.0 j
 > Source code, frozen experimental protocols, leakage-audited split manifests, and machine-readable results for the validation analyses and E1--E8 extensions are available in the SSPG-Net GitHub repository. IMD2020 images are not redistributed and must be obtained from the original provider subject to its terms. Trained checkpoints are archived separately. The v1.0.0 joint, causal, LOAO, and ablation results use a predefined validation split; the later E1 and E8 evaluations use the 63-source test split.
 
 The v1.1.0 evidence directory adds E9, the three-seed matched control,
-and Figure 8 provenance. Its weight indices provide exact hashes but do
-not themselves make the checkpoints downloadable. Add the new archive URL
-or DOI to the manuscript only after its three ZIP bundles are publicly
-deposited and their downloaded hashes are verified.
+and Figure 8 provenance. The three checkpoint ZIPs and `SHA256SUMS` are
+attached to the [versioned GitHub release](https://github.com/wunan-snsy/SSPG-Net/releases/tag/v1.1.0).
+GitHub's reported sizes and SHA-256 digests match the local archive index.
+This release has a stable tag but no DOI for the new checkpoint bundles.
