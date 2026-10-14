@@ -1,0 +1,20 @@
+[
+  {
+    "path": "results/e10_spatial_mixer_v1/20261001/best.pth",
+    "seed": 20261001,
+    "bytes": 360398912,
+    "sha256": "c239c709177de9ebd7210b362202a299d6cb15feb2b18244466465472cc24c5c"
+  },
+  {
+    "path": "results/e10_spatial_mixer_v1/20261002/best.pth",
+    "seed": 20261002,
+    "bytes": 360398912,
+    "sha256": "e64de33e8b85fc3aa8c7a6093298ab690ae79ea76538d33870d1c124fe086197"
+  },
+  {
+    "path": "results/e10_spatial_mixer_v1/20261003/best.pth",
+    "seed": 20261003,
+    "bytes": 360398912,
+    "sha256": "3b8e88cf73532c471b676e9c2088ae4eef4a77053c87e914b20c77452e667175"
+  }
+]

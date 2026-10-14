@@ -1,0 +1,31 @@
+{
+  "experiment": "E10-INF-EFF-v1",
+  "checkpoint_seed": 20261001,
+  "models": [
+    "FULL",
+    "NO_GRAPH",
+    "MATCHED_NO_GRAPH",
+    "SPATIAL_MIXER_MATCHED"
+  ],
+  "warmup": 30,
+  "repetitions": 3,
+  "n_inputs": 124,
+  "batch_size": 1,
+  "python": "D:\\SSPG-Net\\.venv\\Scripts\\python.exe",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "torch_version": "2.14.0+cu130",
+  "cuda_version": "13.0",
+  "checkpoint_hashes": {
+    "FULL": "5d299b69065b4d89f534c24cdec9ec72f504bc588d2d2481f71b5c9c17a7e027",
+    "NO_GRAPH": "6bb2ae77d60db49753cf0d9f21fc454b289c15d1d01e6e06a6d4cbc7897417b3",
+    "MATCHED_NO_GRAPH": "3d9a9c624d1bfb7349fbfedc88258fe03ccf592195c1052bf80efec808dc3c07",
+    "SPATIAL_MIXER_MATCHED": "c239c709177de9ebd7210b362202a299d6cb15feb2b18244466465472cc24c5c"
+  },
+  "benchmark_source_sha256": "79fbb015b5c81f590ed01c717b10132efaed9f6e241c1af418dca5ed7ed18375",
+  "gpu_at_start": "name, driver_version, memory.total [MiB], memory.used [MiB], temperature.gpu, power.draw [W], clocks.current.sm [MHz]\nNVIDIA GeForce RTX 3060 Laptop GPU, 591.74, 6144 MiB, 1577 MiB, 42, 17.00 W, 652 MHz",
+  "timing_scope": "Complete verifier + postprocessing; wall includes H2D/D2H; input generation/I/O excluded",
+  "retraining": false,
+  "test_accessed": false,
+  "casia_accessed": false,
+  "e9_accessed": false
+}

@@ -1,0 +1,26 @@
+{
+  "detection": {
+    "roc_auc": 0.9954648526077098,
+    "balanced_accuracy": 0.9603174603174602,
+    "f1": 0.96,
+    "sensitivity": 0.9523809523809523,
+    "specificity": 0.9682539682539683,
+    "threshold": 0.6624471545219421,
+    "tn": 61,
+    "fp": 2,
+    "fn": 3,
+    "tp": 60
+  },
+  "localization": {
+    "pixel_f1": 0.6690667101843404,
+    "pixel_iou": 0.502704917897883,
+    "threshold": 0.5,
+    "tp": 610884,
+    "fp": 388431,
+    "fn": 215879,
+    "tn": 7042342
+  },
+  "sources": 63,
+  "active_samples": 126,
+  "experiment_id": "CLEAN-BUDGET142-STAGE-C-EXPLORATORY-V2"
+}

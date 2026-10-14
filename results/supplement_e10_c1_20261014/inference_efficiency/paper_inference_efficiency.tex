@@ -1,0 +1,39 @@
+% Measured inference efficiency supplement; no training or manuscript overwrite.
+\paragraph{Inference efficiency.}
+We measured the existing best checkpoints from seed 20261001 on an
+NVIDIA GeForce RTX 3060 Laptop GPU (6GB), using batch size one, FP32
+inputs and weights, no autocast, and evaluation/inference mode.
+Matmul TF32 was disabled and cuDNN TF32 was permitted, matching the
+existing runtime defaults. Each model was warmed up for 30 calls and
+evaluated three times on the same 124 preloaded Validation inputs.
+The complete verification pipeline includes the frozen payload decoder
+and ViT, evidence fusion, the graph or control module, both heads,
+localization upsampling and thresholding. Wall time additionally
+includes CPU--GPU input/output transfers and synchronization; file I/O,
+resizing, input protection and model loading are excluded.
+Peak allocated memory is measured by the PyTorch CUDA allocator and
+includes model weights and intermediate tensors, but excludes driver
+contexts and other applications. These hardware-specific repeated-input
+timings are engineering measurements, not independent-test confidence
+intervals or FLOP estimates.
+
+\begin{table*}[!tbp]
+\centering
+\caption{Inference efficiency on the RTX 3060 Laptop GPU. Mean wall time
+is shown with sample SD over 372 timed calls; GPU time is the mean
+CUDA-event interval of the network plus GPU postprocessing. Memory
+is peak allocated PyTorch CUDA memory (MiB). Checkpoints use the same
+training seed; timing repetitions are not training-seed replications.}
+\label{tab:e10_inference_efficiency}
+\small
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+Model & Trainable/M & Total/M & Wall/ms & GPU/ms & Peak MiB \\
+\midrule
+FULL & 1.416 & 87.242 & $15.36\pm1.66$ & 15.02 & 369.1 \\
+NO\_GRAPH & 0.556 & 86.381 & $12.30\pm0.59$ & 11.94 & 360.4 \\
+MATCHED\_NO\_GRAPH & 1.416 & 87.241 & $12.79\pm1.24$ & 12.40 & 363.7 \\
+SPATIAL\_MIXER\_MATCHED & 1.416 & 87.241 & $13.06\pm1.72$ & 12.68 & 363.7 \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -32,6 +32,17 @@ by SHA-256 and packaged separately from Git as three assets of the
 Run
 `python scripts/verify_release_v1_1_0.py` to check the small evidence package.
 
+## E10 / C1 supplement (October 2026)
+
+The completed [E10 and C1 results](results/supplement_e10_c1_20261014/README.md)
+include the three-seed parameter-matched Spatial Mixer comparison, C1 splicing /
+Telea / Copy-Move+JPEG85 outcomes, raw prediction records and the existing
+RTX 3060 FP32 inference-efficiency measurements. E10 uses the original
+Validation split; C1 reuses observed Test sources and remains exploratory.
+Large checkpoints and C1 dense probability / GT arrays are available in the
+[E10/C1 Release](https://github.com/wunan-snsy/SSPG-Net/releases/tag/e10-c1-20261014).
+Run `python scripts/verify_e10_c1_supplement.py` for dataset-free verification.
+
 ## Repository layout
 
 ```text

@@ -1,0 +1,12 @@
+{
+  "state": "COMPLETE",
+  "completed_models": [
+    "FULL",
+    "NO_GRAPH",
+    "MATCHED_NO_GRAPH",
+    "SPATIAL_MIXER_MATCHED"
+  ],
+  "retraining": false,
+  "input_consistency": "PASS",
+  "archived_inference_consistency": "PASS"
+}

@@ -1,0 +1,8 @@
+{
+  "state": "COMPLETE",
+  "attacks": [
+    "splicing",
+    "telea_inpainting",
+    "copy_move_jpeg85"
+  ]
+}

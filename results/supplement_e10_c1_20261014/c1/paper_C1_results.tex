@@ -1,0 +1,14 @@
+\begin{table*}[t]
+\centering
+\caption{Exploratory additional-attack evaluation of the single Clean-142 FULL model on the same 63 previously observed IMD2020 Test sources. Each condition has 63 protected authentic and 63 edited samples. Localization uses full-set micro averaging and the frozen 0.5 pixel threshold.}
+\label{tab:c1_additional_attacks}
+\begin{tabular}{lrrrr}
+\hline
+Condition & Detection AUC & Detection F1 & Pixel F1 & Pixel IoU \\
+\hline
+Splicing & 0.9977 & 0.9683 & 0.7220 & 0.5649 \\
+Telea inpainting (radius 3) & 0.9826 & 0.8983 & 0.7171 & 0.5589 \\
+Copy-Move + JPEG85 (4:4:4) & 0.9955 & 0.9600 & 0.6691 & 0.5027 \\
+\hline
+\end{tabular}
+\end{table*}

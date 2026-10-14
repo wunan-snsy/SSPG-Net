@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SSPG-Net-C1-dense-predictions-20261014.zip",
+    "bytes": 78130386,
+    "sha256": "0aedb1886ea77e3069aee88b8aaad68cdb57fcc6a5e4b32a208f9ecd6d4f0358",
+    "download_url": "https://github.com/wunan-snsy/SSPG-Net/releases/download/e10-c1-20261014/SSPG-Net-C1-dense-predictions-20261014.zip"
+  },
+  {
+    "name": "SSPG-Net-E10-Spatial-Mixer-three-seeds-20261014.zip",
+    "bytes": 1081197262,
+    "sha256": "1dbefd0c01b094cc79cfa94cf41a860ac20917e8701b2dc53ac894f93719f17e",
+    "download_url": "https://github.com/wunan-snsy/SSPG-Net/releases/download/e10-c1-20261014/SSPG-Net-E10-Spatial-Mixer-three-seeds-20261014.zip"
+  }
+]

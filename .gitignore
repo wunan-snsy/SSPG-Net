@@ -96,3 +96,8 @@ results/*
 *.fls
 *.out
 *.synctex.gz
+
+# Curated, verified E10/C1 experimental supplement
+!results/supplement_e10_c1_20261014/
+!results/supplement_e10_c1_20261014/**
+!/tests/test_e10_spatial_mixer_v1.py

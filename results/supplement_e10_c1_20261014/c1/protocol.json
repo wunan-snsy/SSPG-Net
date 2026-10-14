@@ -1,0 +1,20 @@
+{
+  "experiment_id": "CLEAN-BUDGET142-STAGE-C-EXPLORATORY-V2",
+  "checkpoint_sha256": "1848c54ec1a258ed63f063aab1cac6eca8a519f42f729280932cce465a2fd6ba",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "validation_summary_sha256": "9f8c79bbf4cad72b2eee472e800b6ddfc75b367fc8a2e6d81aad4aa2b352dd2a",
+  "source_manifest_sha256": "86d8ebf9c4c924f6e3ccf19c16195e21ba5167c9329394f3e5ee6f0a3545511e",
+  "sources": 63,
+  "test_seed": 20260924,
+  "attacks": [
+    "splicing",
+    "telea_inpainting",
+    "copy_move_jpeg85"
+  ],
+  "detection_threshold_from_validation": 0.6624471545219421,
+  "localization_threshold": 0.5,
+  "splicing": "Next sorted Test authentic source used as raw donor; same-coordinate 15-30% rectangle replaces protected host pixels.",
+  "telea_inpainting": "OpenCV Telea radius 3 on 15-30% rectangle of protected image.",
+  "copy_move_jpeg85": "Frozen copy-move geometry followed by JPEG quality 85, 4:4:4; ground truth is destination rectangle, while compression affects the whole image.",
+  "selection": "No training or threshold change; all Test outcomes exploratory because prior Test results have been seen."
+}

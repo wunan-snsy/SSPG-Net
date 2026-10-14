@@ -11,3 +11,6 @@
 *.pdf binary
 results/release_v1.1.0/** -text
 manifests/e9_coco2017/** -text
+
+# Frozen evidence is byte-verifiable; avoid CRLF normalization of archived files.
+/results/supplement_e10_c1_20261014/** -text

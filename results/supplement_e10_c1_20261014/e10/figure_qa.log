@@ -1,0 +1,39 @@
+Nature Figure PDF Text Audit
+pdf: D:\SSPG-Net\results\e10_spatial_mixer_v1\figure_e10_comparison.pdf
+minimum required: 5 pt
+minimum found: 6.3 pt
+text runs: 41
+below minimum: 0
+verdict: PASS
+note: Tf scanning does not replace final-size visual inspection or account for every PDF transform
+
+Nature Figure Rendered Collision Audit
+pdf: D:\SSPG-Net\results\e10_spatial_mixer_v1\figure_e10_comparison.pdf
+pages: 1
+visible text boxes: 31
+stroke paths: 82
+
+
+summary: 0 fail, 0 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: PASS
+note: contained overlays can be intentional; WARN findings need final-size visual review
+
+Nature Figure PDF Text Audit
+pdf: D:\SSPG-Net\results\e10_spatial_mixer_v1\figure_e10_parameters.pdf
+minimum required: 5 pt
+minimum found: 6.5 pt
+text runs: 22
+below minimum: 0
+verdict: PASS
+note: Tf scanning does not replace final-size visual inspection or account for every PDF transform
+
+Nature Figure Rendered Collision Audit
+pdf: D:\SSPG-Net\results\e10_spatial_mixer_v1\figure_e10_parameters.pdf
+pages: 1
+visible text boxes: 22
+stroke paths: 61
+
+
+summary: 0 fail, 0 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: PASS
+note: contained overlays can be intentional; WARN findings need final-size visual review

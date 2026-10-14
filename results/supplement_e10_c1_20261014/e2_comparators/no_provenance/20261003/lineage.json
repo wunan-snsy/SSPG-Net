@@ -1,0 +1,9 @@
+{
+  "experiment_id": "CLEAN-BUDGET142-E2-NO_PROVENANCE-20261003-V2",
+  "training_seed": 20261003,
+  "protocol_sha256": "1b9f03bb7b19f76ba70006ba4621e379519fcdd51e19f57a64e7580b251ffbca",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "checkpoint_sha256": "241ffac2c679d2b5ac213786926366b90ec852cf98c6053a81b21b36505f5084",
+  "summary_sha256": "cec844643632f8d1fb1f820e16ae0dac895f38c81f3ada2748c8def0275bdfaa",
+  "test_accessed": false
+}

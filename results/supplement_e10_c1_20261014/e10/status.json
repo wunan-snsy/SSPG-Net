@@ -1,0 +1,15 @@
+{
+  "state": "COMPLETE",
+  "completed_seeds": [
+    20261001,
+    20261002,
+    20261003
+  ],
+  "numerical_audit": "PASS",
+  "preflight": "PASS",
+  "visual_qa": "PASS",
+  "figure_geometry_audit": "PASS",
+  "test_accessed": false,
+  "casia_accessed": false,
+  "e9_accessed": false
+}

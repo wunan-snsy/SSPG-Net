@@ -1,0 +1,4538 @@
+[
+  {
+    "path": "c1/splicing/prediction_masks/0000_34aca6f4.npy",
+    "sha256": "961d43f8ad470d7950daa8829f7885632622d186a85b41322cdbe5cdf7c90823",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0000_34aca6f4.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0001_aa87d675.npy",
+    "sha256": "74bae1ede13a7c9625b467f21d0a21f1b69b66474134b3f47cb4e4ae7459b3c0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0001_aa87d675.npy",
+    "sha256": "aec9eeaa4de2e1c3af3f4d9f5143f0a673bece83b589ac2f245c340ff5ae6439",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0002_d5f788bb.npy",
+    "sha256": "8b915f163dd098b0b3825ffe399406941a65bb855b071006b0535c475efb0680",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0002_d5f788bb.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0003_1f3c51a4.npy",
+    "sha256": "20c40d7ad739c12ca9f6c860de54a23d97c5aafe22265a49ceaf1e3a286286e5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0003_1f3c51a4.npy",
+    "sha256": "16d31765b86739615f2ee69fd104df41b63e31e2208ee48e93ed753a7d8c4b0c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0004_99e2ee2e.npy",
+    "sha256": "c60ea1076e62fc7ab1f2b3698b7c404be3b8ec3552a0a0ffc54aacf0582c145e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0004_99e2ee2e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0005_09786952.npy",
+    "sha256": "7933e3a18a6d2f539bdcf03f2bbed50264e1e947d47878d396d03a7979661343",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0005_09786952.npy",
+    "sha256": "09754edac36a434f7d2edb84495c9af6d3105dc01fc4cffb5f94e9cca0bc5717",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0006_e936cf9f.npy",
+    "sha256": "9b3829019a4f944c2c1ab6c854aa6358f0ec641f667f7ae158ee5c0c9258aab1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0006_e936cf9f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0007_1f33ed52.npy",
+    "sha256": "57f77c50128086ef469b153870f67ad6235b2c397776b0e9ac070c3947318552",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0007_1f33ed52.npy",
+    "sha256": "c1f8a0e65dbde7443033c171e9af83ff3bc0087db9a0bf63a12783ef0fb3853f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0008_6a32f633.npy",
+    "sha256": "da6416df6171b3713e33aeaa6ce98238afeaea71708a2e8199da89df801dfc25",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0008_6a32f633.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0009_f03d689e.npy",
+    "sha256": "80116f1e5863efcd63519c895b3c45196f61490ffbd44a8e20e2aafd5721503a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0009_f03d689e.npy",
+    "sha256": "f30e63e68c429abefc0fd40bbb327e3612163a3e06a69a094653b6785c30a028",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0010_039e3408.npy",
+    "sha256": "da0b2dbeb40ee8d6a71ad914969a0b0c3a685b98f3ac45f603060a92ca7f6592",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0010_039e3408.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0011_265af3a0.npy",
+    "sha256": "1b5258978d8b87e037ccfb9a3ff9bdf47b0136fd98ccafd4ccd530b15523475f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0011_265af3a0.npy",
+    "sha256": "96c7826585025425f22db4e65006df49957ce80644cdca1ee98220c5d10f053e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0012_75015c20.npy",
+    "sha256": "cb703c529fc8fc08044ace0d10d3f38b04e0b1acc314a70f3149bd00f165ee3e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0012_75015c20.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0013_dbab6aa4.npy",
+    "sha256": "5332a5e04d08fe72d6ba0121ce03c7f4046b42dcb51d14d6db4e6e11a4090051",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0013_dbab6aa4.npy",
+    "sha256": "1b2d328e8c2fc9c4bcfe95cc4977e5a426c1fb93af1ad0380e6d482047ea134d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0014_952cdb21.npy",
+    "sha256": "08f567b0d160f07272755c70b36f3cfd2fd49406a736a98e9fc0e1da65e38730",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0014_952cdb21.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0015_527e80bc.npy",
+    "sha256": "d0e0a08679f50c9d4d9f0e31434694886fc2d21e57c0d7399b56bfa7a0846eae",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0015_527e80bc.npy",
+    "sha256": "88c75bbd65883cff4ced4b2dfaf6ce2d01784ef805df64edc5f5e78b7c8e61e2",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0016_a8cb925e.npy",
+    "sha256": "6847346ec94e681bef1c267b51f27953fa8f9bea3e649829695b6d7c526677fa",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0016_a8cb925e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0017_d1c6b43d.npy",
+    "sha256": "582f3fdd04689bff2af2ea9e985dd297d37580960655af3cc4676de5d0f9eb71",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0017_d1c6b43d.npy",
+    "sha256": "144d00a21d20b9372157fcef502e30f5e07798a521bda6a5f6baca2ae20ace90",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0018_e5b268ab.npy",
+    "sha256": "5da91d81a0f9b540d23d449fd04cde6879a261e32b16ff2be041c9a72eb17d69",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0018_e5b268ab.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0019_a104878b.npy",
+    "sha256": "e5dc566a78b83f0b0e950300f99640c9376995c09c2993d51b47dfc4bdb32ba5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0019_a104878b.npy",
+    "sha256": "2430ef63f6b1616203b611ab4b210ead4e7be776fa0adea4d47cca9b3ee7cbba",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0020_2b09e960.npy",
+    "sha256": "fed341f31ff504c3461187b6956bd2ed58ecd3a605850fcd0fd02b077a426e6c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0020_2b09e960.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0021_72491a1f.npy",
+    "sha256": "6a2939c6577c4ef5f95fedefe78c4a6417e09b3c102b61e5b6bf3441a8614a23",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0021_72491a1f.npy",
+    "sha256": "7ff19085556903b0664940d315ee2b5d9b9f95f24b1dd999e28ca6fac6c66d0f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0022_78713717.npy",
+    "sha256": "f0523aecbd588b5adc842d9a9af3cf2a911d2dc53492260f303972262b1f72d5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0022_78713717.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0023_0900ca66.npy",
+    "sha256": "9f16f123692af8e431a7dfa81727761afc47d66ef2bda297dd0e19e67298e153",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0023_0900ca66.npy",
+    "sha256": "01c666e02e8d0c9f1d5d76a3c0dc3a49454f90683a293d3d828c589b04e5c0ec",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0024_88d76379.npy",
+    "sha256": "0fd0867ac80aef8be24e0a05ca179e6864475675fd148466f948eeff8bfbb448",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0024_88d76379.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0025_32046d1b.npy",
+    "sha256": "45b9511ed034688c332c11a560f7e23a34558152d5bac2a4409dea4bdc012947",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0025_32046d1b.npy",
+    "sha256": "3eb6653e38654a49b64f63f5125edf555d25a4d07c47f6453004bb2b61960515",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0026_7b0c3dc4.npy",
+    "sha256": "a16041f4f57921d01191a4a105cc3c97f5ac9d35aa4849dc87b30cc310fa3ea2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0026_7b0c3dc4.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0027_6beacf3d.npy",
+    "sha256": "37ceb2533f592d6a829ddb686a5c5a3fa696bea4718f36880bf49c9578ae6b82",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0027_6beacf3d.npy",
+    "sha256": "fda81fb554ae52d3e4a2889658aafe21173015120a51c4958b892492957ddece",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0028_25db8835.npy",
+    "sha256": "467605b2dd0e496a657864021781a147aae10c4f2faf94832c946f33401845d1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0028_25db8835.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0029_09a1310a.npy",
+    "sha256": "2f5db5059283b7fbaa4f406855364b989927eed08982444b852c86f6de458e59",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0029_09a1310a.npy",
+    "sha256": "6abbf8b131a79f827449dc3d2f28da2df001a3e65e2fbec1a9f82d502765b2e6",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0030_7ab67fb1.npy",
+    "sha256": "07cebe0b65c4de955470c7c98ee9a827e6d53a106c4163ba54449bccf3cfea7f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0030_7ab67fb1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0031_77eda913.npy",
+    "sha256": "7978376f73424dc73675dbecf57577da31f1af7f77f6639dd83cfad7fb81a95e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0031_77eda913.npy",
+    "sha256": "3908a978b96ec13748386e38d7767c50dceb82d6f2c9ab037cc58c94dc0e1e53",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0032_7dc82cb1.npy",
+    "sha256": "d335877aeccd451147f2e367363a91190ec134d91f1f353dceb0c8180ab3b1a0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0032_7dc82cb1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0033_7549c38a.npy",
+    "sha256": "d4c70b9b2c2a62cda22eccd572bf13ac89e3a97f6fb09f3892df8a7efe3be712",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0033_7549c38a.npy",
+    "sha256": "85f93b264daa0c8b94c7455e50be62fadfd20eff4cf4d8ed5cda4929da91546d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0034_7bec9e7c.npy",
+    "sha256": "7da8e615be066ffa00177cfac20ac6eb2a377cf32f86719b8a958c53ff70faa9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0034_7bec9e7c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0035_eab100bd.npy",
+    "sha256": "256db6b21ce360cd1d162067af4a93c07958c99171515224d4062b6bd3cc2e07",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0035_eab100bd.npy",
+    "sha256": "0e948acae1eaf1119b7639831915273d1d7638ee858a02b9552e6862c8fcdae9",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0036_ce0397a0.npy",
+    "sha256": "28e0b3d00ba694d78cb6b9d9d8a238cfd96c612821580baf38dfd2949d9fe82d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0036_ce0397a0.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0037_20e85717.npy",
+    "sha256": "eb7386acb97fb782e6a0b3cd7f5bbb42323e352315962155d9f8ce26a7f7bd8e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0037_20e85717.npy",
+    "sha256": "8791595593765959b5cb173f464c103f0c208f34fa4b37df67eec7e848df6340",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0038_f05b5d66.npy",
+    "sha256": "972c5843a4e88c1b910246b42ff74447b1374067cfed8efcd33f2e28e8693348",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0038_f05b5d66.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0039_c8686e04.npy",
+    "sha256": "8677522bbeb1b8813e253bf3fb65263e4a554fdc5855268fe0ca4a1519d949c4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0039_c8686e04.npy",
+    "sha256": "1d6632acee7e0863538cd2378804571eab9d0cd4a8c13ceea7d0ad384fcef546",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0040_07c9c6cb.npy",
+    "sha256": "a1d3a1a70dab4680545b0911de718e1ca2c6e748cb31cda57e04ed2597b0dd53",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0040_07c9c6cb.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0041_f9e99a31.npy",
+    "sha256": "61e55ec7322061f6a2a84eb9b4715b29c4d95d4a402dbd5e0ab3bf09e741564f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0041_f9e99a31.npy",
+    "sha256": "5e7e35f86d2cd06c40327b2303e96e86b0edd3e7df99a8956f6fbca7e0a33283",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0042_9b194ba4.npy",
+    "sha256": "6375c50a34847d1ade4d7721112e9fdac86943c7d2692f72d8cd3b38b5b5ebf4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0042_9b194ba4.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0043_99190aac.npy",
+    "sha256": "c5a57a13a13c535735eea7eeaacc7cd916a3fb7dc135b1a8df26f3c7e697c73d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0043_99190aac.npy",
+    "sha256": "c03acaef82a8649b6ec278a6ddc343fc0ddfee7b8f55dca66ca21e419f2151b7",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0044_622a2267.npy",
+    "sha256": "38188a714d287599b0a4ef52f95ad214a03c389b435a978a16e67847fe2b8b49",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0044_622a2267.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0045_6fc44ddf.npy",
+    "sha256": "21e4af264f0d0aeb67f3dfe80717c678ac7a03c6ec4402cacdfc3c1c95f45489",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0045_6fc44ddf.npy",
+    "sha256": "ca9bfdb2cc0079934e803ab251c1b0e3f915de29cec4ae8bdb2b72fd37e7dd60",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0046_03812ce3.npy",
+    "sha256": "9f587343eb74597e745c71d88e4c5ef20e1a9f6fe0cb97bf690f89b142d8f8e3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0046_03812ce3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0047_9395d16b.npy",
+    "sha256": "6da8b2a8836989784215a25661ec1a6c0ff36cc70f3cb97f48cdd4503be1ab88",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0047_9395d16b.npy",
+    "sha256": "4ebc32b72bf14654600f192dd567b2f6c3f1a8c5e58af09f98c9586a17bb2c6f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0048_fbb4c90f.npy",
+    "sha256": "d25eff78352503c47ec9ac67469f116ae42e02950a715fec026baba7c9d9ac1a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0048_fbb4c90f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0049_36dd727a.npy",
+    "sha256": "20975f014780393d67ca1e3f78e9f2c21f65c20749f0cbd430d59e1d1d7b90f2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0049_36dd727a.npy",
+    "sha256": "792ff280de0ce1da1d63398ca58f482c70e3f3d0319cb124a1bc0d98750afb02",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0050_1e1c40a9.npy",
+    "sha256": "cf9eafadc58359d20618359108b74b2a70894199d40d75edc3173ca8e217cd60",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0050_1e1c40a9.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0051_a27fac4c.npy",
+    "sha256": "6920b544a457a5ba8df6530ef770382a96d1ae5ebab9e4e52c112dd3729d6341",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0051_a27fac4c.npy",
+    "sha256": "eb17a654f4d4b180557c9e6f056f1ee449e40fef6f19e0d8d3b07dee90d578ba",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0052_6bb93173.npy",
+    "sha256": "43e84d8e3925bf275b8a2b1076da15c19f4c5fa8a2954829b6384711336a06a5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0052_6bb93173.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0053_b2c31a30.npy",
+    "sha256": "9869c9c0ff6bef567cd443bb2e16466e7ebebcb0e55f8751373be1007f0d5606",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0053_b2c31a30.npy",
+    "sha256": "aab86f29080b10ee210406f05b0833edeb1bc37687ff35fed27f2f9c75ff912f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0054_4715adec.npy",
+    "sha256": "5194007b4325d210fb5dfa5b5c6b7a1b260bbbb9764d2ca383a119c146f30546",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0054_4715adec.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0055_e70384f3.npy",
+    "sha256": "fdeead61ed4a0e34109bcaf309f56610f7d8aea809feb9da75ba5982f353c953",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0055_e70384f3.npy",
+    "sha256": "0e3fac2468e5c809c2f282185bf85a093665551447fa4b010e4632cc6d5fb094",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0056_7fd48b3c.npy",
+    "sha256": "87428d967a862fab2aab7706704bebe337f4a837cbdadd787fec3e64a5a00f7b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0056_7fd48b3c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0057_18a72f20.npy",
+    "sha256": "baa5c8f40f814b03f200719a048be37a7ac3d78c0f74f60bb15d7ca576163a26",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0057_18a72f20.npy",
+    "sha256": "b7dac886b59f9f4dcb50b4fd3faf74af6066309b2a843c02dffb15014c4a4935",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0058_00bd2ccf.npy",
+    "sha256": "b64729228c814faede394948ea16659218665b46e7176c72f8ffd8aea9795f77",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0058_00bd2ccf.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0059_5b577737.npy",
+    "sha256": "f18c8ccd05311f77688203f27afd3b88373bbc540b16f6c1526a54aed44620bb",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0059_5b577737.npy",
+    "sha256": "45d9ee309dc7a7b41926d7071ece8863ea538a621dc2f92d5f34218461b34558",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0060_981666d1.npy",
+    "sha256": "0f73e14234631d0774e81bab2d9d3df1bcee1637c398d3e5c2cd8e699638aa71",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0060_981666d1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0061_661a356c.npy",
+    "sha256": "92df99458b5140da020ef927b4e1020b923b533e7c5020950bafb91b90b83257",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0061_661a356c.npy",
+    "sha256": "b639d3b37524f66e82409bcfb3a89099be322706d950c5f8f4dafbdb072136d9",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0062_662d5801.npy",
+    "sha256": "6b3f27827e08818653307105fa3f16b549f9086b5b609faa5783c9405b96e68c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0062_662d5801.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0063_a3a3fb94.npy",
+    "sha256": "db0fbf73b1ece7eea780379d5a57dd17d9dd9fc7725331ad6e29ae03ead03ea1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0063_a3a3fb94.npy",
+    "sha256": "43b82ffd995ec6d68a8132f466866f72bc373656aa9ee9a9add6c3c1595b690c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0064_625947b3.npy",
+    "sha256": "90228c9a04d4780fe8719ef9447523fcf4cec47a7282267cea7221578c746fd1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0064_625947b3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0065_46c5383f.npy",
+    "sha256": "01d6878ece25277123f95af414e9b6fe33718e4dd083514ec91d5c62135edb8a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0065_46c5383f.npy",
+    "sha256": "086d13d67738df811c1148245b5e94a5539a665a3df05a264717333da670eb9d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0066_af7aaf6e.npy",
+    "sha256": "7f4fba0ce4ecf9cb7def4c90d747f15ccd9955f4a257f9dee9d4e80d4911efb3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0066_af7aaf6e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0067_8d6a6f49.npy",
+    "sha256": "e36096a9187a571b6ff465b162abb3a1871e07f43c1c280fd266428d752b09c2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0067_8d6a6f49.npy",
+    "sha256": "f96ed922f417fb77559b4ed94a99019aaa2810f257b1eec0aea2fcddd101045f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0068_f3041ab3.npy",
+    "sha256": "f3fa54f799f14ff4915db6c21978be0c1093b075612dab9a5017bf5ed577bdd4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0068_f3041ab3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0069_35ca8cde.npy",
+    "sha256": "afdd1e638ca51cc96314b2bb73beb5ff6d090dca0224f72f17c3ea1c9aa882e2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0069_35ca8cde.npy",
+    "sha256": "35dad39c332682b9ea4df9cd58157946aeb9ced1123b7bdb78800f5a508f676e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0070_c35e7651.npy",
+    "sha256": "6438d2884182fa8c017c5ccb3821e7b0ec695fa95025213d61743bb6b1d83513",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0070_c35e7651.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0071_48390341.npy",
+    "sha256": "69831569c2503702d8d4076cecbb3ea67952d414483b29e7a6f3c771ba4f8ab4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0071_48390341.npy",
+    "sha256": "613221dd816f04e0c420e46b971b1669a819d29ece27bce43353959a1300fd2a",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0072_2d17608d.npy",
+    "sha256": "36724bbc595d652ab318053032b5abf7d2fcf802fdc66dd8e9fca7b27fa12783",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0072_2d17608d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0073_5217c3ab.npy",
+    "sha256": "b6a09a80bbfc854edfb310bd927f32e70b0a2304a60a5ae66286cd68709bdbe0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0073_5217c3ab.npy",
+    "sha256": "00fb5aa0e5fd252ddbaa514810156c127025bd4bd6ed12ade7ce79a8e9b54f63",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0074_da12cd0f.npy",
+    "sha256": "dfda479cedf0f764d26f9bed7cf4b018592bcfbd056455887fe7c14341105fcd",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0074_da12cd0f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0075_e04ce9a2.npy",
+    "sha256": "a106168eb6697911da9dbce558077f32523c410e71e97cf0f17245daf2b9093e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0075_e04ce9a2.npy",
+    "sha256": "c458c43a3671ee451b4e9a731106085c66334a1efc709f5e72ffe4ec73ef69f2",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0076_26a6d122.npy",
+    "sha256": "38939a3ac54ea8ff066e22909c79a14dc6f21bd81fa96b31eca11bc986b1fe06",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0076_26a6d122.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0077_599b839d.npy",
+    "sha256": "219dbbcb810b9ab6a9bde53c4c381dac7a2eae4cf65acd207e2211545d987f97",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0077_599b839d.npy",
+    "sha256": "8130a80a47958a3fa5deafd80668989a04403cc425f025222ab830e58e69b378",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0078_8263b1e9.npy",
+    "sha256": "48b0767c699889153d0f7346daa95e2e46dbeac3e66016278e265949efb8d7a1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0078_8263b1e9.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0079_7c1486ab.npy",
+    "sha256": "c6e1abca94f8fc232e1f2c27cc842f692dae0616a0d576837e0e2ed0dd52c0e8",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0079_7c1486ab.npy",
+    "sha256": "6512350c050c29ff756ad5ac016c3ba6a81cc286663958bcde018b5315389e81",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0080_6b59c5f2.npy",
+    "sha256": "bfb266d28b00251327f6a62cac161b9488345a8183bbb538614ee650c28839d5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0080_6b59c5f2.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0081_59c8008b.npy",
+    "sha256": "88520ef2fc16dc2eb2b9218de80c5bea35b5fc9bb82e932d0e9173ef97adde3c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0081_59c8008b.npy",
+    "sha256": "f5665ccac00e8948fbba2a71e1f4e730181792d627a9163b9a4ec82b6ee781f6",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0082_ae078e7c.npy",
+    "sha256": "8b7ab3c4132cad4a1135973109619d5044326cc068e45657c683894e81fbb2d6",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0082_ae078e7c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0083_5cfd9a00.npy",
+    "sha256": "586e8b8935092f2fb271371e958fff8c4f09a857851e7772033f441fa8018651",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0083_5cfd9a00.npy",
+    "sha256": "08e607493781544bf6645fd0a5dae5fdc166323709fe9703430eef315cdf136b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0084_64417437.npy",
+    "sha256": "6790c0497160836e14455853e20c271ab530416abc4b173133f55ff8cecc6e38",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0084_64417437.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0085_e615e71d.npy",
+    "sha256": "4328982dd7a157259c89c863d514b54868d47ace63933a628db9ad2f4aeca5ca",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0085_e615e71d.npy",
+    "sha256": "6b7de715549db6172f6e706470a012a783fe6704347996e38ddd9c8215dc42d4",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0086_2007b05e.npy",
+    "sha256": "a3e092af2a970feb868c29344c5ea1da8bb8cde4271525162b14e478106f9f3f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0086_2007b05e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0087_b57ecd7e.npy",
+    "sha256": "c8a4bcb8298d9703d14ed3dcb102a9346015d042a22e8ed2efd99a05a49029e4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0087_b57ecd7e.npy",
+    "sha256": "a884c1695cc34860829e2b7f062ba232c0cd91e7bf24d7064198caf06284be3c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0088_12ea5311.npy",
+    "sha256": "51468f4962deb9251f82462f85e8b211f2bf8420871c25dbbca74489696fe233",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0088_12ea5311.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0089_898739c5.npy",
+    "sha256": "17f1f58aba7ff228642857b1b6645a585b46ae5917957aa1ffea498bedce7598",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0089_898739c5.npy",
+    "sha256": "899ee98808bfd2bac6e04f5c2c34051b546b4aef21f4daa5e8946039bef92263",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0090_cf6fbca3.npy",
+    "sha256": "7cd252bb83d431eaabf1b3ea27b92d7d3adab66b6ba2da98ec04a456b50d4353",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0090_cf6fbca3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0091_3a90bf16.npy",
+    "sha256": "04d64e32b835b96970c8f84d22d341cb25d388dab9a8443795bc4a37f982d836",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0091_3a90bf16.npy",
+    "sha256": "d14fd8f36881dc2d39aa712e498911c4c4a8005c96515dda2a2e5e70c0d689eb",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0092_91415361.npy",
+    "sha256": "4fe1e7564b975d7b024f3d31be7d608af590369daef952dc2bac7b05d24202d7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0092_91415361.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0093_4dd6a498.npy",
+    "sha256": "6c4b0bc3eb188e7b74bd26b37558f02920944ce7c4e8bf8e7fb24c0281e314b4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0093_4dd6a498.npy",
+    "sha256": "b74c363763b3fa5b705fb3e309d5946ac4d9a0306ac77a65cf8a93bc221118ec",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0094_3799b527.npy",
+    "sha256": "1e5a09e55c83cf6ff0c6323244f00d91807b350d3e2fab43e0cb3374c4fd6320",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0094_3799b527.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0095_0fe148ef.npy",
+    "sha256": "d17633fc03c6fce578e5c11d3d8aee5e2ef7d1880c4b8fa8b3febd6a8a46fbb0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0095_0fe148ef.npy",
+    "sha256": "428900448b0e6729db49c393f02cbad3e2960874a74f415e732a4a2790bd8dd6",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0096_d9c616b1.npy",
+    "sha256": "49cb4d5193dda3009b86dffac2128fb5d53f858f09c865c92266b1e660c4e2bd",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0096_d9c616b1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0097_2f949cc5.npy",
+    "sha256": "b14c72c6a01935fff1690ae2aab659641a96440d4212a7ac608e124c63b580f8",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0097_2f949cc5.npy",
+    "sha256": "080d3e73a64af69b52d1aa881825a72762e05a0afd8d4730b5c79d8c8e9c0a5e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0098_90053c2f.npy",
+    "sha256": "1c22c909026e484f5f4aa0356f941bd37a47c387f38f35c8132dff58d9cf7b80",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0098_90053c2f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0099_b3cccfbb.npy",
+    "sha256": "940b9ec81962e22f3ca9b03a4b041367de08c6895f091dd6af63eef9687be8c1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0099_b3cccfbb.npy",
+    "sha256": "ecf4383a5dfbcae9e3fbd321871898e38effd738f3310990df2517bd2882744f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0100_c6f3a32a.npy",
+    "sha256": "0e034bebb8a4eb9dc807dd2e0668a7d455a7f8c7ab959bc18e179e9918f8af89",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0100_c6f3a32a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0101_557d04fe.npy",
+    "sha256": "0e58968e208ff0424c677d1dd80bff42fad1fd19dc1c67c15bba3cc7e8f2ddc9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0101_557d04fe.npy",
+    "sha256": "a8b3c5a13df6bab813cbf67c5b27f4ff2c8b53305839391a127155904991bf95",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0102_0eb2f621.npy",
+    "sha256": "0b3fd1caa49f73c2ad149893ad1c4dd7271c08a4ba019ee8efb55e80556effb5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0102_0eb2f621.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0103_ed56f0c1.npy",
+    "sha256": "224b95b20555a6dcfa6b107622a0c02cc8abdb009ac281a2371e0840dea47075",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0103_ed56f0c1.npy",
+    "sha256": "65bbc613c753a7316e73dc17225e0f79367d604b4d21d754b611ff408b208735",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0104_51ab2881.npy",
+    "sha256": "3b12dd8d0ce2af362bc1378f22404df8a29df210c57676e85d63c2b6d728c35c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0104_51ab2881.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0105_9e5ef246.npy",
+    "sha256": "ed8b1848bf15732e49df7a08806dfabda222fa284143bca6378bb60abcd95e17",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0105_9e5ef246.npy",
+    "sha256": "545d93709e7a3626888c124387a876cda5bf71870a14e5e5df95b1515ffe6b64",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0106_29f0b608.npy",
+    "sha256": "5a24f294f61b6151cf6044a21f127e30c0065a37c0363d1ab1302491b2f621df",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0106_29f0b608.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0107_2af88437.npy",
+    "sha256": "62f361f8ad8c2d370dde86c71d04a192547dc748d466e35212d53e63906342b8",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0107_2af88437.npy",
+    "sha256": "7684c2364888874bd5453815b5c82dc477a2e9745bec7cbb014ce3c0af9cfe11",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0108_f4f2dcc2.npy",
+    "sha256": "90d9dc325aac1d7dd1247ccfda8adf1cacf956739e2be7acd2e166c9fad95f3e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0108_f4f2dcc2.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0109_003fe9ea.npy",
+    "sha256": "95bbf39f088e99df7e6a21a016c385ff7ad69766f2090d07a8d2092f04189a4f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0109_003fe9ea.npy",
+    "sha256": "1f31ef8034dae2fd50bf8cd9e17b096255f83c2e9130f097b8b838a215ba5196",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0110_51c16619.npy",
+    "sha256": "a1244a93762c73a3c154d61046130dfa89f4840825eb360923d004e507ccf091",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0110_51c16619.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0111_59281c25.npy",
+    "sha256": "d8d63bd980bd6e566656f72046249cafbe843c68cb2b314a707b9056ddfac026",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0111_59281c25.npy",
+    "sha256": "363254a4f3e236017705ac4b87aee216da2a825fcc108608b93fb409ceda7740",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0112_b792a292.npy",
+    "sha256": "eb48fe60084cbfc72f04486c935d58638d7ae291ea6b3b8dcad2afb0f4c466fa",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0112_b792a292.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0113_762f54c4.npy",
+    "sha256": "727e59e56b4b5d5bf3eed831debf76bd47ae5080fce9add68c65599debb36e38",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0113_762f54c4.npy",
+    "sha256": "3bceb041f640e437a2ee0f2efe8cc9d147b5f0d32c3cf5f9fc0966a1ac906f66",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0114_cc161e97.npy",
+    "sha256": "c1de3279b431e847b89db59e2b6ea9e5700508a8a9a4c46c686805ca910f731a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0114_cc161e97.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0115_f31c0a3d.npy",
+    "sha256": "20332865eb8d9817c6ead0f0c0dfed76e3122b482e5368cbad0b0d55ae62aa2b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0115_f31c0a3d.npy",
+    "sha256": "19a824db53b42df028b1adf7a3f786da9744f6529110f4fcbba30a01a65ff3f0",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0116_077e7f83.npy",
+    "sha256": "f022f70d4890496452627935b036bba20058fe8886d3a998ea1a08bca81b8ac2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0116_077e7f83.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0117_eae2a518.npy",
+    "sha256": "492e69be9e9adae3ad6506fad655ec781de8c43f0b54598cc1ad2d51b451cfd6",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0117_eae2a518.npy",
+    "sha256": "2947ba5add2be940d64442c2ec833109574e4bab139002873f080fab7b465c94",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0118_ca446078.npy",
+    "sha256": "514620f36f1bc6fe6e7c29bc6b2c6b9e007fb12ceb51455e16a1e16bcb9fa3d4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0118_ca446078.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0119_6ed9c096.npy",
+    "sha256": "6a6cb5044f4e16cc669b89f7e8450ecabae87dc8e9f5b9564cd21b8420e2a8a3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0119_6ed9c096.npy",
+    "sha256": "960c6e24bd6f0d358950d59fc6c131d33b6e8a26b1e6fd4734c602f8af76d182",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0120_b251e7df.npy",
+    "sha256": "186074afa86960de94e43590da6a07f0d7dbc8c8872db084f78181d9b981fd4a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0120_b251e7df.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0121_b128842e.npy",
+    "sha256": "32c5cee2a22dc0d63171b415fb5b4635ec06d7c78bbf8fce4e154379f933a0ab",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0121_b128842e.npy",
+    "sha256": "8d2d1b969f76aa55c30c8fdb2b72bc51460ac375f75384074e868561847816e8",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0122_6e12209f.npy",
+    "sha256": "c9f69709ccc9bdf61d1b30f4f67893c594a46726b351d082a61ca5f422292b52",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0122_6e12209f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0123_6010ae8d.npy",
+    "sha256": "6eaec5339f27b7bcfff29130c9f0017440e335e898b68a2eb982ba38a96add04",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0123_6010ae8d.npy",
+    "sha256": "0665f4ce7b733e34d98496b1eb4f43db533a698d690489d94d218857f8f8e16d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0124_2f4f3664.npy",
+    "sha256": "667f9410fc9a6cdb963b38fc4c399b4861f7149b4262bebd2b8a386453704c3b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0124_2f4f3664.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/splicing/prediction_masks/0125_3efbdbdc.npy",
+    "sha256": "4b8ff1b4a9421dbddce2729f206a6d7ea7acb28d3379ab7ccf30829b109a9806",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/splicing/gt_masks/0125_3efbdbdc.npy",
+    "sha256": "96926f992e3fcc1431fdff3980437b946a7691397c27b1a0b389360ebac66d29",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0000_295d48d7.npy",
+    "sha256": "1eaf6eab6590617566762992449675a66b4c465dfc45ae79fc3dd9062627179a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0000_295d48d7.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0001_78680ea2.npy",
+    "sha256": "a57e7cc00975cab2970bdbf913c9b4ea0a62596c105d618753fdeb298b763e14",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0001_78680ea2.npy",
+    "sha256": "998139f7e5c4272cbc734d4336e3b89506f2d2ff14cc7b2acc71cea4da734f42",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0002_580fd25f.npy",
+    "sha256": "3a0436045a8608eb97a3800853864e5f001ebf003f1b00762592efa9a247f923",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0002_580fd25f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0003_911c070e.npy",
+    "sha256": "1d14083050a224d634dd6c7e5a90d392f4ae50e5b54a30776e0e8653cee21fcd",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0003_911c070e.npy",
+    "sha256": "4eb101c0847aad1aa9d59ac21e2b7094ed41c70fdd798984cdfe087c44ea4e56",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0004_9dcd58b3.npy",
+    "sha256": "be3c3eeb071fdceff21b84394dff135c71a951613713a7ed9867dc21ef13b2e0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0004_9dcd58b3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0005_2bbb4627.npy",
+    "sha256": "7cba4e5a115ec1fac24c1f012f47c09b0a7572c62924584e532f4ec82bd6a239",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0005_2bbb4627.npy",
+    "sha256": "dfd5bac3d93bd18008591f6c16add064aa380a8129addd6b0a480cd3f24ff6af",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0006_183b1aee.npy",
+    "sha256": "0c22071f9144beb6f76988ea4d7e221d67f1a56e79c42b14ec55a5651f6c2a7c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0006_183b1aee.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0007_f328cb5a.npy",
+    "sha256": "d343891d051a7d9eac3b224e321acc6063a6eeffdf9c3eb1f2402601843e5a38",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0007_f328cb5a.npy",
+    "sha256": "ff83861c20bcb7fd934a5405e702dd590109230e769e19100901236a8c58b0e3",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0008_334637f8.npy",
+    "sha256": "db6f73e77e52a6deb2eb0dee292f47d898cf06d7075e682307e1d78648edab21",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0008_334637f8.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0009_10b5234e.npy",
+    "sha256": "1beb1d9ef3586ff0d28c515883c4f81aeda7729a1962888d821b5fa912649de7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0009_10b5234e.npy",
+    "sha256": "957cf615cd37b94136189053a4d67510b5a0e7696089e94054bc5ceea80d432b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0010_9615fbca.npy",
+    "sha256": "f3ccd2c4a0104280c7ebaf811085e763ef006b9d8c91dde2c7343cdcb748c8be",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0010_9615fbca.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0011_28d2d71e.npy",
+    "sha256": "6674115f6be52e7042265ed877ed05618e5821a3b96731cc5154b87b69d8b2de",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0011_28d2d71e.npy",
+    "sha256": "a2eb13744ddf3a498755ac5bcde3440774bffcb751eb26dce21ec03cdf0f945b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0012_c733e058.npy",
+    "sha256": "fd8c70db9fbc9cd42c0b6f7d8f5f26061c893b82651d4fd22a1eca20fc2126cc",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0012_c733e058.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0013_3cf67f8a.npy",
+    "sha256": "4c6be30ffc62dc087ae18afbe1d84ca2f6a7a705408a022e6ff0568b3e24ba66",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0013_3cf67f8a.npy",
+    "sha256": "be6f9184be5a7e775ea5fbe7d24db0f012ef0a1498dad75f16ae54e4aaa823e4",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0014_50a92011.npy",
+    "sha256": "4c3fcd5d3fd373375334a08c2b556ebd57f4049ae63f3db6cf427119047135a5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0014_50a92011.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0015_9975abeb.npy",
+    "sha256": "481d0ad5b2a3f6f8388262d33a8e52848e6949ed223c59c89bbb0f40446b2339",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0015_9975abeb.npy",
+    "sha256": "317d43bb48f88c9eb795d1c38d413ef80431563f638e4d81dfdb5f4215dfda0a",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0016_a5038dfa.npy",
+    "sha256": "269ece74b64bb3f8d0959d4942ff707d4059d5e96fd638849e48df1dcbe529a7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0016_a5038dfa.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0017_4935ee07.npy",
+    "sha256": "0ec95524e0e9766a87e1a0cc37f8ed4276fa53e0eedc3dac6fae433fce338da5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0017_4935ee07.npy",
+    "sha256": "c939c4e613afb3bfad603aa35df0c93cea5a7a907f64aed72f48aaddd3bf90bd",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0018_fea761b5.npy",
+    "sha256": "1cdcda2c34d6ab09982ee79151b4213012c2b1533d380e5f1eb9b7a49a54290c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0018_fea761b5.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0019_331211d1.npy",
+    "sha256": "85f8f4afd7c659b532e68a3dd7a90ca33985dfc8fdefb85c2be0537917882b9c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0019_331211d1.npy",
+    "sha256": "d07fc0e8c9e102aaa675c8fb60b9d7d3d28d4b18f96345ea352ea5de002b42b6",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0020_95c11d43.npy",
+    "sha256": "c9b3b0143c5cd0d2b0d79921931749f16968a3a6c4f571a99b24ed75b453701e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0020_95c11d43.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0021_34c042af.npy",
+    "sha256": "2364e724a9183b35ca22906b2cfd22f835af9364bd7ea0e99e728674d811349a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0021_34c042af.npy",
+    "sha256": "9fca3d5276296d536d4782ca66f6a03e3cd0b01af1c1db1ab737c4dc638fbbe5",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0022_8a6ff839.npy",
+    "sha256": "c8dc6960cf73a7c0dc2356f30c763d0421ae331e33e0315d4511cc1be86daeff",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0022_8a6ff839.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0023_58eca8de.npy",
+    "sha256": "2593694905f0f3cdccf30d008c71ac9e80a16369718fb002e15d35486a689fc4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0023_58eca8de.npy",
+    "sha256": "5180df72723376c213e68f67101bba628b9f8ea3c859ac35f585044f3946d229",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0024_c5e8c7f8.npy",
+    "sha256": "a40aef99d8ed1add05d99441a9b4a351b585ec8b023c586cbb646811dd583d00",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0024_c5e8c7f8.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0025_41529c2c.npy",
+    "sha256": "9950a4bd1dd58ac5606c3602933155ee557f2bb55cd8c0201e3dfe87da5dfb7c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0025_41529c2c.npy",
+    "sha256": "2ea37dbc3e1072bdee6303ec9d3610e802b74b90d8f752e317bde48e8eaf670c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0026_391ceeea.npy",
+    "sha256": "5b92abdd7e2844cb50685c8dac7a4012ee30fced7161bc90f6ec4191ea726241",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0026_391ceeea.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0027_f737db97.npy",
+    "sha256": "2d1b78bceebe60e21cf6c3830814ccf4eedfbcf25b243126cfef1cfb0aba9fc2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0027_f737db97.npy",
+    "sha256": "b790866a365694b50a6b870e43e3d46423d799bef0fe2467a3d82e50dbda4d54",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0028_0c419df7.npy",
+    "sha256": "77ad8675f1f0011e4c5059764b4d26e2ca79a0cfb1c3c807df5ea28c8a5dbef5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0028_0c419df7.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0029_41207c51.npy",
+    "sha256": "bc363cb601c0105921f3f7126d03faa8b596f0ccdd0259d937e8947b5027ed79",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0029_41207c51.npy",
+    "sha256": "6ff014e7219aafbf8b8a2f938096955944252f99fd53560b50d873c076d2665f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0030_edea747c.npy",
+    "sha256": "b6367ecf77023fc1e68ce9f7fe0cb07ba593a5acb7e59e347b510175d2b14abb",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0030_edea747c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0031_eb0a14bd.npy",
+    "sha256": "b4e55d5dc245087e71ce9bfaa5f61818989ea243f75de45bc8180f9e6d077eb0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0031_eb0a14bd.npy",
+    "sha256": "b030a1a2a5f77a95a3f015a63c4a3aff287df6d42be3b5c32cd3e8f8240dd7c1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0032_419b25d8.npy",
+    "sha256": "5cdb4c6b6ee2a09c8186770a51033e46a7f0a374ea68d197b9628238b9c1aac3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0032_419b25d8.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0033_6112ff81.npy",
+    "sha256": "c3e2aa5e817786c75c7aa70c3b919b359c4006db0e4f31c6c56ad4cb651a91b3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0033_6112ff81.npy",
+    "sha256": "4424b118fdf1d9ad11a64d59d58d0bf907998797e97ce2034ea6eb590118da66",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0034_da1e560d.npy",
+    "sha256": "c352ac73f0cb5f08ac7a8e5ac11928aa9801a8adc6b10aad9be11018b2fcda4b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0034_da1e560d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0035_9fafa334.npy",
+    "sha256": "692d9e43843af0145d66fb8124f29473cad738ab6629bd614c5c144c2f5dc63b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0035_9fafa334.npy",
+    "sha256": "06528882c362fb2ef02911997956de273ba65d8f22e8cbec6835f0de292817eb",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0036_9d81591c.npy",
+    "sha256": "6eb8dc82a90059dee0ece4b1dde63ce1756f5fe13b4319b5c994bd4b35f88f95",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0036_9d81591c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0037_120bae59.npy",
+    "sha256": "ab8d671a8ce88cebd83d4a041317c16e01d8dbc4a5ec5b16f9b1795fba813993",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0037_120bae59.npy",
+    "sha256": "a775e91a6ba49921206fb3b778afa6645c790d5f22d9cb5e8b8692e9df710f67",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0038_acf6c532.npy",
+    "sha256": "2340f0c2cacbe87458354e16795a293fbfe4f6af9528fead61925f66640092a9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0038_acf6c532.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0039_ad037132.npy",
+    "sha256": "efb1c3b8183aa4fd9dbfad3a00cd50e00c7f9e6804f674186d7ba2206833acd2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0039_ad037132.npy",
+    "sha256": "5bcd1086ac8827eac77e22a3efb74d640401e2db535cec80b0f808f5ab399ea7",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0040_dd1ffd11.npy",
+    "sha256": "7950f907d8463864ce0d89be35af4d3abacc8638949d526b4af8d56417bfbf26",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0040_dd1ffd11.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0041_0f21963d.npy",
+    "sha256": "b75e6712d6013e2e93b9870648a7e6d764d0a7dae8d531bf1ff3834716de46bc",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0041_0f21963d.npy",
+    "sha256": "69835eeeae39d33b3d73ed4b376a8fc0ccab3d9c2b0d179c81417ac144d35be0",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0042_6bc15223.npy",
+    "sha256": "9dc0fd88d38d7df9072a49715723773a7b5ae947233ec8b3f7170e86cd5f8361",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0042_6bc15223.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0043_f030c249.npy",
+    "sha256": "b06ed3f6e3aacc1f01dfab2475947dbc442d555ef5820261969735b3db12f8e5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0043_f030c249.npy",
+    "sha256": "7dec7e092b492d0026bf169c34be0927223e301d8fc9d18a65edaa47363ade8c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0044_ca5736fa.npy",
+    "sha256": "6aae997512207f53f219ee50b937ddb0d1ec94d992e7dd760d4593d09467ab8d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0044_ca5736fa.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0045_2d803c9a.npy",
+    "sha256": "75669a7c9def757568cf380faac04f71c646b22c410f143885ff509c616236a9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0045_2d803c9a.npy",
+    "sha256": "ff0b92c24d7322c436695ef135f77d95bd261cd6364474c3c85f059d9b8f7b06",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0046_0a3b8589.npy",
+    "sha256": "470440d8cfa40a7560dc29ef93f69a74fe7072c5adb953c0f07b1d306c6f39ee",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0046_0a3b8589.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0047_2f1df078.npy",
+    "sha256": "8132c7fb90da68d0bef27ad35b94767e462fcd4b452e63aa20a29fbd011d3352",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0047_2f1df078.npy",
+    "sha256": "9f5c9fe3e13961828882ee8042788b2c21f2e4a078d7f86dcf9b5fa0983428f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0048_66bf0e76.npy",
+    "sha256": "5780b6bce364c58db6c1d0f391e04f774463dc71b15a38943392a45b8f2224ba",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0048_66bf0e76.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0049_1d9deb02.npy",
+    "sha256": "3d0d2e9a521beddd9aea7321e7d40e7b9bb951724bd13f6885977f8aec749a5d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0049_1d9deb02.npy",
+    "sha256": "cfc352192bb58d5f11e61b74d495576b0e6cdb0de63f2678dc30ca4fb31b247e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0050_89b86006.npy",
+    "sha256": "ce894baa7b460eb19209be8cc48436769830a6222a54cb822d9cdee4f89e9e13",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0050_89b86006.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0051_9570f45c.npy",
+    "sha256": "a4f0f2a760af2375291ac99810fbe581163ef041fbbe1244777237e2c9e0b2b7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0051_9570f45c.npy",
+    "sha256": "380f8d8bc53bb63525088536b22f2eb8627c496645b45b40f4a7d29d8018b853",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0052_f35284d0.npy",
+    "sha256": "5d9f767b10fd50b808ec8c5f092c3797124f109c65d7e850c45ff75e1423441f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0052_f35284d0.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0053_4ff20ced.npy",
+    "sha256": "d768ee05ce9133609eadec16e7fd0b3ff89675fe9560fb583eb2d5c9b3faceb2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0053_4ff20ced.npy",
+    "sha256": "2df0b55789643da3715f7b3af23e66fa14e2947df2c14187793c0ee9aca18124",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0054_1801239d.npy",
+    "sha256": "5c477e28896997bc0d7ec9bb6678c6797c6da6023fcd170009eb119576d8fa81",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0054_1801239d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0055_ef089686.npy",
+    "sha256": "7f1af06b549640dd7ebc3035445bc7a7f5554f42136221ad4aebc692a62488ef",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0055_ef089686.npy",
+    "sha256": "59a4a46499cc70c7bd16c287c9880f416a1293911ede3989c5fa407ad8d4d2ad",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0056_6425ccc8.npy",
+    "sha256": "e34fda3f97378efff3437ef0ffb1d18511d2f31bfe0bafd90206dcde4c460ae5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0056_6425ccc8.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0057_537cf1c7.npy",
+    "sha256": "8831acf3c22c26cd4c7c66b8e27e1f9dfd3b2d9827fad961ff9c97ed92d85292",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0057_537cf1c7.npy",
+    "sha256": "1f178e4ee8136dc47eadc1fd7dbd4b79ccd38e0a4eae1d3bbd28e6be98dfafa8",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0058_8b5a30f3.npy",
+    "sha256": "5ec68517c1ff2687b79524de60e2aaf8c9426ca3856e5191f009ea99c7cc1ac4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0058_8b5a30f3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0059_28370ac0.npy",
+    "sha256": "2d44b940230b47c7d4433ae54f76a2414c06284f71608fbae8f256e169144206",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0059_28370ac0.npy",
+    "sha256": "2e5465613aef83e393ebfb43842a1831f5787ac23ce7fc7b467d766082de7a4b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0060_749e1c6d.npy",
+    "sha256": "1039732f81105806fc49a0cbe1229e9668f5eda2e35f90951b4eb243f2abad7b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0060_749e1c6d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0061_5816f4ef.npy",
+    "sha256": "3d77c7aac26c0e1e1b48a0e0c5815f9316d7a2f94096ac949117ea131c2a0a43",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0061_5816f4ef.npy",
+    "sha256": "e179d1ecda52a87277d1a2dbc0e63f173d050c3c5cff9b1fb382a9aa1926a957",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0062_52b83cba.npy",
+    "sha256": "4cc0c2e9a0de14cd439480d51a1f99661d1bd48cb3fd303a02e7e6e68b019f20",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0062_52b83cba.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0063_247cc7b6.npy",
+    "sha256": "1080416c8bb865ce6531d98983137c729230d3565b0fb3522327ae591740d457",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0063_247cc7b6.npy",
+    "sha256": "cf8174bc0395ab4d3e90dc96c006bbdba60dad43789e7f07b5cb447474ecf45d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0064_54ce5630.npy",
+    "sha256": "ceecfde819af57fbd4b2d52a9cff733444d73d4cdeb9240a83d71bf6d4543c31",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0064_54ce5630.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0065_9d820162.npy",
+    "sha256": "b2c0b8bc6b5c31a2c3560748d6683238d18fc71639f5f8a3cf4e5729197991e2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0065_9d820162.npy",
+    "sha256": "752f43aebc1a319341836bb3e80f8aae8bd7ade203380bfa64fda720b010df68",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0066_cd488459.npy",
+    "sha256": "ecad4e56439541def5667692adccd085e1e18cf68f97c668171fe6638d03029c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0066_cd488459.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0067_d6cc670f.npy",
+    "sha256": "18cf36251cc2f5a9d5aac6e01212922fc6b80a3ec5dbbc52bf0ece0a753f1f01",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0067_d6cc670f.npy",
+    "sha256": "1d3bbc491373d996e82b73622096c679b8078e388330df69d3aebc7c60ca078b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0068_04dd2eba.npy",
+    "sha256": "91b43686d146d0cc7bcaa0f3e1c2a7c9cd5695333a8b4d7ca45f922bc792c020",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0068_04dd2eba.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0069_92e85fea.npy",
+    "sha256": "291dc77df72295d12d9480cb0b286c8394b559d06f978713de54c0ea9ca8959d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0069_92e85fea.npy",
+    "sha256": "416e4cce9779d56fa2773df7ab34f88e2ab9dd36aedf649b3e0792360e4c81f2",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0070_94fd42bd.npy",
+    "sha256": "d7342356289bf51f80de198939d068b2359d35484487bd692668310ee1c57cf8",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0070_94fd42bd.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0071_39ec1f2e.npy",
+    "sha256": "2dee936f4fc8a337d1736e15e76704d3d4e1c7f30f712c960e24c4682fabc659",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0071_39ec1f2e.npy",
+    "sha256": "5bf601afb1ab20cfcb24332134afec4ea21e0361001e10488c9902b82795e143",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0072_7d094b79.npy",
+    "sha256": "a9ed8e7a31fa959e33dd1d75103305bc6889b7e0ca4106914924e4e3083ded85",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0072_7d094b79.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0073_22caed4f.npy",
+    "sha256": "54b1e19fd2dfb1fa9f709d1c6ff4e64acc602a287d1c39c082b428209d424072",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0073_22caed4f.npy",
+    "sha256": "7fc62612f039b81f3298722df088b2b4784240b4c52a00fb2650a949354123fc",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0074_d5b76739.npy",
+    "sha256": "ed8b7d81b2a13635b1129301886e6f17e7110f8978c73a28b9118b9ea8ce22ee",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0074_d5b76739.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0075_a614457b.npy",
+    "sha256": "0cfa392bfddf779b618b8af57bd1bb365121b5eb375c4241a1ce025f7f8c4fe9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0075_a614457b.npy",
+    "sha256": "aa7b25e07e35271e01bacb2b07e946a264d39c5ac2ddce02fc1174b50d6c5134",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0076_a72851b1.npy",
+    "sha256": "854ef458baa2e5706cbac56f601d4d52238155668dd59a3fa3179c02352d7924",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0076_a72851b1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0077_2aae33f9.npy",
+    "sha256": "680dc7f3aa0ce1b7140f304497fdf22a10c6eefa2c83537fb06801edcf7775e5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0077_2aae33f9.npy",
+    "sha256": "14ff13cf7467298aca02d80eac19d683386cb6c68e8943bc500569db9c9984dc",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0078_f10e41fd.npy",
+    "sha256": "1f0cd7de3b5dc65b2ce5a5da526d3113934b0fad9596e7bee5bbd35043f7c05a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0078_f10e41fd.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0079_3ad431c4.npy",
+    "sha256": "bf9e4ae144b4c1ada3e9fabfb4d7eea602bd0728437273e11525100bcb10fe8c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0079_3ad431c4.npy",
+    "sha256": "b49fc23ef56314f45c516ca7040f2b4fca1db41bd0cf2290eb4b7fc9bd41bf95",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0080_bc622c2a.npy",
+    "sha256": "fe8fa5960a1ec298a4d698b93b5b2176ab71976451c85ada8467c3cb32db59bf",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0080_bc622c2a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0081_c4967103.npy",
+    "sha256": "262305fd7c59b037866f6823f289de75a0c2b8b346394667938fa493c557bebf",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0081_c4967103.npy",
+    "sha256": "1ad812030268c958c736b15880556c0a5e870f65982a4995dd193a6b7741f67f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0082_fa096f79.npy",
+    "sha256": "3021436e2adf80955c8a1f5a63eb6588949cfae34a832a0fcf77d6ea190dccb0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0082_fa096f79.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0083_9eede9b5.npy",
+    "sha256": "818ace6c4ab21431533480df28e351091e9de180a31918722e7a390a7526703e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0083_9eede9b5.npy",
+    "sha256": "b6be76bcca45832ccbcaabc04dec08ba5eff7ed96fc8e56544f3af1d661d304f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0084_55415d33.npy",
+    "sha256": "d5f78ef16c1ad5d28ef44f456448e85c933bae64a44365985e1d612dc3fd067d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0084_55415d33.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0085_576970c5.npy",
+    "sha256": "e7a4671de5eb3fcf4819ecbae0081fb565d9376bc3a68299a4d265cf57a1a2e0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0085_576970c5.npy",
+    "sha256": "1ed29a639056683a56fbd2dbf42c6bb259bcf0a1b410092aeb6d7086a9fe5f50",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0086_46b53759.npy",
+    "sha256": "8d71733890e5333b3eb50f8d574dbc77a3eb194f50704b24d58ba5c3cd6282c4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0086_46b53759.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0087_385227c4.npy",
+    "sha256": "e58e3d688547cdf54cccdf7bb564ceb9997eafa1e381db68028b301d8db26ad0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0087_385227c4.npy",
+    "sha256": "c25525e794607e14fdfdb9f7c5d12967e76b6e9fa5110664cbd71407a790a157",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0088_f57d229f.npy",
+    "sha256": "67874a02523b40e0023cc78fc7591080a4ac247772aabb103b2594bfb97de5c8",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0088_f57d229f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0089_d84556c3.npy",
+    "sha256": "f2f3b994838a53adaff5e6a412876930dedad7c5bd66ac4b832e7059600b7b71",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0089_d84556c3.npy",
+    "sha256": "061ed4b9bcf935f0b443cab5390fb3d569a64492aeb836d8b805d6b2cfb0d829",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0090_d5e7de18.npy",
+    "sha256": "7af38dce584fb69cd70dfae435e179ceae095a751dee6687c0b61d077b469ca5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0090_d5e7de18.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0091_ce207e54.npy",
+    "sha256": "b1408dad6132ffde0f9f81cf1e53815a889c9a867a4d89e41f24bbf4557b4b8e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0091_ce207e54.npy",
+    "sha256": "a6dc526378c6b11755405a904d29f9031a86dc439886e587cbea24fb74ea4d9d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0092_3dc02991.npy",
+    "sha256": "f9674b334cc4202b6bb85d14518d6341745ca18d4b933de70fd5e14677c607e2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0092_3dc02991.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0093_73314bf9.npy",
+    "sha256": "d29163993bb506eaf25e4ab9b5cafdb7515af6cfe04a85a9b43f476c11cc9933",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0093_73314bf9.npy",
+    "sha256": "3a90b3eb036e9f0b0f07b30eafda3b9e3397b7e5791afa0c7059be824f522279",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0094_786b7df6.npy",
+    "sha256": "c72bb559cfe5c3760db50ed0126ebbfa0d2a62ad7ed8101a7f4be502c9e3cef3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0094_786b7df6.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0095_c8e1dfd5.npy",
+    "sha256": "96535360b99b8e8cd6d7c4f0a65c5a2a12864d272eb64b482565adf970a4ae73",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0095_c8e1dfd5.npy",
+    "sha256": "a0072d084994e71a30abaa3ca5638bfd93c747dcb66f4839c9922290cee628e7",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0096_dd027b65.npy",
+    "sha256": "97fe9fd228649cd1a3e807bd2729235ac2c1efa275054418fc4b94e496ea2ac9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0096_dd027b65.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0097_0a5c4267.npy",
+    "sha256": "0a68216433c27aaa717892658b9a1c6e2e08fb4ef6853ac21f2ca3349a17501c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0097_0a5c4267.npy",
+    "sha256": "4350d9fb2cb1ff8f694482c69b164c0499003b816d4e2277e2601ec4fc8abf9c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0098_2fba9331.npy",
+    "sha256": "fdc41c1b6ffc7b67e5fb788294802180dae94a7cacd45904df756174a4cc84dc",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0098_2fba9331.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0099_84ecd4c1.npy",
+    "sha256": "72de9bf04c29999c008d19b5810448807835f64fc7955c0b4c9f68207bf01f42",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0099_84ecd4c1.npy",
+    "sha256": "c6f1ed8cae1b0d12e62d4a70db1651f3b2d76bc19c1f3fef3d10210398ff60d2",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0100_a06adb1e.npy",
+    "sha256": "3894124f5b58fdc578c3d98efb4ebf0fbacdafad0da6e99fab35a838c31c515d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0100_a06adb1e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0101_4cdd36f7.npy",
+    "sha256": "5821468c7c5b659e9f190dd52478cc65ffcb5bff4864dce789bb6093abbec0c0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0101_4cdd36f7.npy",
+    "sha256": "84bcfc9e3109e1f850fedc12415d51d8af813ef78a019031c3dc36e3fdce1c99",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0102_72877125.npy",
+    "sha256": "8592e95b1f371c68f937d6daef18c5a583eb48ec8f7d77f406bb5befc17d3b6a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0102_72877125.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0103_f549e0d5.npy",
+    "sha256": "c012e4ea05efe94e01386c7fd395d24b276f5b659a0a602a3d9cb13c6db7fde2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0103_f549e0d5.npy",
+    "sha256": "74c197a6e4c9063f077370dd42f9aad3507cdff1f4c1498d30ebf8cd672df6ad",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0104_924aa07e.npy",
+    "sha256": "b4e5ea1d68b65352945c28aa205134a8efbcb791bdc0289b5db1cc28d296a6e9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0104_924aa07e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0105_b2beb190.npy",
+    "sha256": "dfa9d9d6c188e15f4fef033e99b2cce0d7fe8d48de1c64b41207e4942b412bb0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0105_b2beb190.npy",
+    "sha256": "36627ca0659d8b0c421a3d3ebc9e09eb0393253fd0182f6a17b2c6388a171a16",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0106_5c323e7d.npy",
+    "sha256": "52215e4988d38f7f04ff34600f78a90b1b0e201a92343a7b459aca5e54ef8f7d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0106_5c323e7d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0107_28c60993.npy",
+    "sha256": "677fb2022fb6854ea86c57523a8f7846343c5b4b3046758af02f3b303d0aabfc",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0107_28c60993.npy",
+    "sha256": "7f574f35b3675e38d67a306607fa54e8f302d0c53f073b8cc2abea97f038c145",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0108_05b1ebb2.npy",
+    "sha256": "c81f6b6672437cbd9fb4ca671fcbb39a87cf154f3f2edfeb65a8f07a2d676de1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0108_05b1ebb2.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0109_0aeb0fb1.npy",
+    "sha256": "44e7ff947b41de67f55ebc4fdf386816729171860639c08b3eeccdaf6cb7cf0e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0109_0aeb0fb1.npy",
+    "sha256": "6f63dabd25bdd4295b9de3782d72ec067ae132b3ea1ecd66343da6a6a4d729f3",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0110_f746d5ac.npy",
+    "sha256": "a16856a81447a5cae9ed97e96f87c3f535dafc940aeb5414c9ecbf5c62a8b954",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0110_f746d5ac.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0111_432b6615.npy",
+    "sha256": "4fb75db2480e5f2d9d188021baf991be97698d5a68c3ce66c8dd39de096b7099",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0111_432b6615.npy",
+    "sha256": "28c483573619725ec6e0e6c653665b30a9e201a271018572864d93eb95204835",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0112_c2060c9a.npy",
+    "sha256": "56e6672af1d720d43dc7661e52250348f2b3c8c2317607a2df4276a373f366a6",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0112_c2060c9a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0113_4ae57814.npy",
+    "sha256": "b0cdec01f7dba104a1cd8998245c74df0d344b7a0f648cb2f73d1eccca73c70b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0113_4ae57814.npy",
+    "sha256": "0fb4a69a2a4dd23d75dfbabbb309269e81c1e8747fb67861b64c7d6245d83b92",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0114_ebb35228.npy",
+    "sha256": "b4c51d782999198f6be173e18126110f4f7ece771de8b5da9d142af4ab49d28f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0114_ebb35228.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0115_e2a5af9f.npy",
+    "sha256": "2f2b835628296e2d6d56696056c89f4fb447ed7de8ce7be0e855f5734dfc8278",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0115_e2a5af9f.npy",
+    "sha256": "a345fb6ec96860b9e1e68ddd741ccc8edfcb34817adfa522b6a6957692c5cf4c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0116_362a5551.npy",
+    "sha256": "87531dbbbd2a1b7acb8fca4b848d33f5379b8c62aa3a2e10652802296d015b2f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0116_362a5551.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0117_1334f750.npy",
+    "sha256": "83fe12514633460db7ed23212544c92b8176be27b3201f32efb8c61dfff87caf",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0117_1334f750.npy",
+    "sha256": "c95b4067a0fedf67c677f20b770a284d76733604f5d7bf1783653af5a2353266",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0118_99efb2e0.npy",
+    "sha256": "81599dd0b2451e23e0f1da353c4a26c7d5f4dd4ab6ced5f0a8cb86ffe40ad09f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0118_99efb2e0.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0119_b22d18c2.npy",
+    "sha256": "3defb876ed04fef21a6c886acbd0fe99557560bdc52ab107f0e587de6b3535a5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0119_b22d18c2.npy",
+    "sha256": "ba7033a7fb481f0bcf0d47f399bfa76b58ec804571f51d299904d0a91cbca926",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0120_10253d85.npy",
+    "sha256": "7a3737c62a9fd4b492d3272f24afc00bd2ec1b0429cdeb4e5fe993f2aacde467",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0120_10253d85.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0121_b763bf52.npy",
+    "sha256": "49d7d98354e5dffea0344238aada726ea138c3874e240cd8fcd3343eee2d7fa4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0121_b763bf52.npy",
+    "sha256": "d18b52a548247a4e7828fdf4e21807857345c219615ad66ced360fd7f0322fa9",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0122_c22212f1.npy",
+    "sha256": "d89cdf613411aea3a8e545cccaaa7a02dba1ea2ed77b2b27a52c442ee33ac92d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0122_c22212f1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0123_b6695d74.npy",
+    "sha256": "ab00087e9e9163a5dd87ba8e6a233f43a26900e1accccbfab9e1aae7f37f9f7e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0123_b6695d74.npy",
+    "sha256": "03866190b82794ba40c5f4e1742c2a2d1e4dc9b5fc43a7d94e38d7c4569a3ddb",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0124_35751a3a.npy",
+    "sha256": "b4ac08a99a0c8cfcb5dbfd0d634b4865669331b41f13bf3ff82ed233e77cd40c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0124_35751a3a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/telea_inpainting/prediction_masks/0125_8804ee32.npy",
+    "sha256": "2f8134001d4152ad2efc80608a971ce5a314f0afe50d6fa108b75fa1a4c32d72",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/telea_inpainting/gt_masks/0125_8804ee32.npy",
+    "sha256": "5aabb1ae2727a9cd1cbc4c65cb68260afe012901cfd4a66ed27fbcfc1c61dad0",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0000_660cf779.npy",
+    "sha256": "b65197280832f75411680c07b01ae8e75f0767c3253bcb36cd71364d20a9e3d7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0000_660cf779.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0001_4e57fa7c.npy",
+    "sha256": "47fd1ffc590c14e94725c38e74382f248a9d321c59842117fe1d0dd0ed23375c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0001_4e57fa7c.npy",
+    "sha256": "15ef313168233bd03fcdbd24092643fa0b456b56a9b3d2818c114a29a8f1b1e4",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0002_822c9e88.npy",
+    "sha256": "bfb83589b702c7d8456756ce0376d5cb3f34dc9be2697e1509962e1f333ccc3b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0002_822c9e88.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0003_f73dd777.npy",
+    "sha256": "178c4367f0621622931fb70aa5785f5a138441a6d70c32d4a6bb13bccd728c03",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0003_f73dd777.npy",
+    "sha256": "dd06e062d1bb89e6cc1de632d7242df384a90a5d3d3dd9d8a28c7ace18cc3b9b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0004_aa9638bf.npy",
+    "sha256": "b68b278ee9fd536eedf08a3a8f8a851cc1fcf2b03df150872e05e78f92fc4547",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0004_aa9638bf.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0005_7f69cbe5.npy",
+    "sha256": "66a8a5f0ac3fc57224d621f1eb04aec8048634d0e176a0e1120f8ac580dfa89f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0005_7f69cbe5.npy",
+    "sha256": "60ec8887a24785a86768f56ad8a375e28c6346d4ef2bce1e61a91f9efa2c7406",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0006_946fe1c0.npy",
+    "sha256": "2ce4c019f7425a2d3b680d170381d94ce3a8032e44dfc47582ee09a7e89474c8",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0006_946fe1c0.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0007_2731f0de.npy",
+    "sha256": "950c05555133a2b07824c1c4c7db1e4d5092f71c29dfafbd69539c1106f0aabb",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0007_2731f0de.npy",
+    "sha256": "9b0b8dbb99c8ee86f54049c44c6b1441c194c1bb18835dc5f10ab926c60ef39f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0008_99252480.npy",
+    "sha256": "ef91fd1d47e5f590f1a60729444bf6fd039f45d08dffd7bf013d39064db0473b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0008_99252480.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0009_11ac180b.npy",
+    "sha256": "fd41d15656d22b7f526272e617398107edd0fccca0876421d11ff5b01147ff22",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0009_11ac180b.npy",
+    "sha256": "27f58fac96f3eed860d49310bd037d60bb21b550fec240352bccae0fcc00b2a7",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0010_62552746.npy",
+    "sha256": "b4553c909d9fc11c4f6034e06d3ee304bc8742dee03211de0ee7d752e30f077d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0010_62552746.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0011_d5333ef5.npy",
+    "sha256": "54456ce3706cb51f333385051147a2e286de56128d59ab1360fa175f2456385e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0011_d5333ef5.npy",
+    "sha256": "4737c3ef1343a287f9d6484ee946d502d91fa36e00ae37370540507d21693079",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0012_6d0560b0.npy",
+    "sha256": "814d42ae7d94ca45e8053319ca85f81cb57eaa5105c61088b4b92d4c5273e471",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0012_6d0560b0.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0013_6c12dcdf.npy",
+    "sha256": "bbbf1250b2b2cf02e288ff3c0ccb5c292121171d18bd91235e059b6cff7d01e0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0013_6c12dcdf.npy",
+    "sha256": "974e61b854659ba4441ae3eaf9e180061a366442e09f4383cf445b723567e04e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0014_255f74af.npy",
+    "sha256": "33ff5033617bb28b7787582a44e33fd06dca0d433ba15c7b8f6862e84e9bd7fd",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0014_255f74af.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0015_ae37be56.npy",
+    "sha256": "0ea1c73ee89d399cd58167c101278fdebb32fd8254e833b25d4875d3221a6cf7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0015_ae37be56.npy",
+    "sha256": "c5dcffa09725221627f4d8f53a3c76710ef86e2fcbf055703af31b991f3790a7",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0016_61b30592.npy",
+    "sha256": "ef3dfecf0fe7c2b444ced8d397312a22962bf9d15ceab4649d10cacb85d0c94b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0016_61b30592.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0017_54d00a77.npy",
+    "sha256": "187f3fd6d16c939d73b51ef24546d9ee917e8b47ac841b72360d9a00815e625e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0017_54d00a77.npy",
+    "sha256": "3ef1266f9977a75f6ae0f819515b5796009a6169a82bc5ccb46937e90db56506",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0018_24fab45a.npy",
+    "sha256": "2433d5a64ea2133bc72159b5ffec92aeff59e3633d6f88c001c9e1acb618201e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0018_24fab45a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0019_e9115db7.npy",
+    "sha256": "ee5e5c9329044fba0f12a26f005e2647c1af43e9dd9346743851763470fb7eb6",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0019_e9115db7.npy",
+    "sha256": "6fa6f17125fb7794607069ad0736a37be702173d7a60b0f97abbcb9282256136",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0020_7c2ce5bd.npy",
+    "sha256": "6f22f97ada5d2951d1be22e86368d7ef4f79a7954d760e82865bd549d9e8ed0e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0020_7c2ce5bd.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0021_85b33bd3.npy",
+    "sha256": "3ea379a0509bcfc4690c622bb76dd2d4a9fabaa848da5469dfc6015a91032bc5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0021_85b33bd3.npy",
+    "sha256": "e72263c8ed760a03cefcc3e0d396e2cad97deb6873db2a5b5f7179decb350df4",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0022_b2aad818.npy",
+    "sha256": "571e4473aa1bf78b4d781b29cf84f6f0256083bffe5c584baae1f7c4f5bc3a41",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0022_b2aad818.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0023_ab4921dc.npy",
+    "sha256": "92a843b4fc775d21f32796da824f34bcef094821bdc6a80d27924348f38b24f4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0023_ab4921dc.npy",
+    "sha256": "8116404822242652471325d98244996faf5ccd123070dcfc96201a432d95ec5e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0024_ca1a3df1.npy",
+    "sha256": "bd20af4a66507cf23932d8ae128ef4d3d26958a91d58ef359f76642a1613c84f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0024_ca1a3df1.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0025_361056de.npy",
+    "sha256": "4b586cd9901f07f64a9f05810901ed51db18a204a9227506730d2a2274c22179",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0025_361056de.npy",
+    "sha256": "b9b8349132955fc556c20af68deb4c292e2a7ff39ca5086991a531ad0ce70c43",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0026_6a739095.npy",
+    "sha256": "34ba6f48870f12f65feb1b1f094bea7c26d88cc7a15e0d7f3eba8fcd228b3752",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0026_6a739095.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0027_46abae69.npy",
+    "sha256": "30dc34b120bc743c0d477fba868916a3c289a7edbaff7ed4633ac33e37106287",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0027_46abae69.npy",
+    "sha256": "b87a6314ce3a06f50e29dde1b5e0d30358610451900f69ff613374b6a12d99c6",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0028_ca8da393.npy",
+    "sha256": "9184746826966260eb64a8ea9e6b09cd04d6c65d3e096265cdc7e7b65341a67f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0028_ca8da393.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0029_76506759.npy",
+    "sha256": "8b78050c0728698c935519247a3cb034c8d934a9fab194051188152fb39dec7b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0029_76506759.npy",
+    "sha256": "ad6536f21a5d61cc42cfadc3a1427933679451ee34d4c8f7e7a13ea8062b7b5d",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0030_d04b6c4e.npy",
+    "sha256": "01734946048f0184b502288a449df8c69a9e1ede457f5efc26a65bbf35a577f6",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0030_d04b6c4e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0031_e67a15d2.npy",
+    "sha256": "401c740bb7c8089e0fcb02cf8875fbabc48a4314c918e1bbc30fbda20220a26e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0031_e67a15d2.npy",
+    "sha256": "a1a721dbf726300b2c7f13ef313f5761a3c2c29c2413c38ae4ce3bc03c09bf1e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0032_1ac3d16e.npy",
+    "sha256": "60595c1bfce601439adf46c14d0bf0fdd69c6702220fb1afaeca9b2094365238",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0032_1ac3d16e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0033_bca83bb7.npy",
+    "sha256": "9b3bfcd3046b19b64b70af3dedfffc933690ee87ffcba4987ba4ded34362b585",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0033_bca83bb7.npy",
+    "sha256": "9f6e91dc17fca0e52cbe7638a24c3bd5babb11f9c837ca525856e5a5b59f0ecf",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0034_20b20fa4.npy",
+    "sha256": "ee279a83457aa4449de8a51e96d178931d1cc98e2c082dce1f357d8b67a87e45",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0034_20b20fa4.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0035_616244a4.npy",
+    "sha256": "c427a553d4495310a306c76a27f886a9885ce33782ef2eaa6cfd70e23307e61d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0035_616244a4.npy",
+    "sha256": "0ad6f919c26b5709de566f929bedd5a26cb6952cc5537cbc5debc6271b31ef66",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0036_e9060196.npy",
+    "sha256": "8639936817323425a8c1e5886da4d647921be7fdefc2050a908314e4d7046c27",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0036_e9060196.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0037_681cb24a.npy",
+    "sha256": "4a41c329141b2a7f9dd4d5b0111f29872877282fb8e3ef4de77c5d7c92399bee",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0037_681cb24a.npy",
+    "sha256": "42aff925d437f0866a8c0ed532bf551fb6e29d6dfb9b3c3cf36737cf1c0427bb",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0038_aa0f7b9b.npy",
+    "sha256": "8bfd6a6482fae8832e23950e5320d3919a70e2c8aabde43885d593a85e0a68b4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0038_aa0f7b9b.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0039_0268f7b6.npy",
+    "sha256": "fcbf526e14c65fd915b67f84694ef27da62684ce301b52aa4ec966eccf27f4f1",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0039_0268f7b6.npy",
+    "sha256": "2ea93ae31cebf0812b19142ed38dc7b2bc23d4e20d859ccd6e3edfa2b5737f8b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0040_88f0e05f.npy",
+    "sha256": "6165fccc0f59b75df107a0259247408e55589b03f5a24d77dce150dd448018d4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0040_88f0e05f.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0041_5d7e1eda.npy",
+    "sha256": "e39f9f9dc151f7a1a330984bb45156d485b580d28a4afcf05ed3e4ca7b9b5758",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0041_5d7e1eda.npy",
+    "sha256": "ce1159781a4520727113b8734ac579b7ef892cdb2b73b0ada90bc8684ba7f169",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0042_0ac581f3.npy",
+    "sha256": "7825f24f38ed6657b001e8d8ff1897eb12922372827c37d9c4c9eb14e96e4d5b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0042_0ac581f3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0043_536261ee.npy",
+    "sha256": "1573145e682419278c0d9a1406fb290fb5b2ccb06ea5fa55a50729bfe0654ac7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0043_536261ee.npy",
+    "sha256": "62a298fb27e3c11740036f18e8e1358967e7b7ae079f133d199ad0e544d8d7a3",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0044_fd1a24e3.npy",
+    "sha256": "99b0ec0036f92c0df34e3b2b9614ed8e2911f4d4930d1f077fcd2e41ad301205",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0044_fd1a24e3.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0045_1828e215.npy",
+    "sha256": "856357d05c49ca252559043dec8e3bc0158086c69b243c55aee4ce8d41a0dfb2",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0045_1828e215.npy",
+    "sha256": "2e8e51491dc0d95d7a52b438595c44fa46ee490ed9a7692b50daa0475136ad9a",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0046_2644c853.npy",
+    "sha256": "a24c3c8a9992649947ff3dbf41c208755652155fe2b8e8779a434c4f7cedeaca",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0046_2644c853.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0047_bfe4dbac.npy",
+    "sha256": "5e1251022a4cf2d23224734ade3a823591aa5c96a22d39e764b1c66e6f3f5ed4",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0047_bfe4dbac.npy",
+    "sha256": "08ddff5c9ab00ee0abb078f65e1ab7cbeb76cc02799feda6e5f819808f80cbc2",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0048_580a020c.npy",
+    "sha256": "97079a54f3967266a9187a35c41c03a12d17f9ca86e2389b7b426e4fea6c3183",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0048_580a020c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0049_a70d22fa.npy",
+    "sha256": "d3c39d2a824f8c8ddac6fd087452dcd402126dcc6e199cb5449c266abfe6dd7e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0049_a70d22fa.npy",
+    "sha256": "aa95cd7d36ea94bd4817765c4e600ed94ad86c08e03e283be6ac854b09f9d567",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0050_fc4150f5.npy",
+    "sha256": "ec32f30971a0958c62c61d91070c1ed0b4daab7da09cff15dc6637520b02b46f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0050_fc4150f5.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0051_00bb0495.npy",
+    "sha256": "5741b33fd1577a4e0b812058454a25e9aae1ba009dd3c0b3a9ebfe4e5958a3ca",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0051_00bb0495.npy",
+    "sha256": "9ad8bc04b50bc967b8492063e6bec6740c807af9800f71825ef580c1676d2129",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0052_b4c68e6e.npy",
+    "sha256": "c62611aa15f3ed074f27ffdb3d5d503a5be0aeed0f810939b895afde5069b97a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0052_b4c68e6e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0053_91d6153f.npy",
+    "sha256": "ca9756a7359247187843ab5217d59860e63b85d0350aae310eac937eeddf108d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0053_91d6153f.npy",
+    "sha256": "005db61e7e0503bf06c52295e404129b408c9c610570e046c9799922c40fe220",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0054_fdadbcd5.npy",
+    "sha256": "13c12f34e28beb3d7324b7ea8476f7b3f88d3f528a4adfb246bba52885051605",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0054_fdadbcd5.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0055_5dad35f4.npy",
+    "sha256": "28d79372e6434eb69d6460dcf06b7ec79e0737be31cb4e5c3233363e8f4725ff",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0055_5dad35f4.npy",
+    "sha256": "639ccc2fad5adb9e4b6f22293f71bff7c11fc3ff56003501c06f36bd05ffada1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0056_5d0da633.npy",
+    "sha256": "c588bbc3acd5cd673c30ad7ef03bbb58598915af86b10e970e3ddefaf48c1189",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0056_5d0da633.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0057_1859dc89.npy",
+    "sha256": "6b5deceea887ff13604337b8a814fb80d5568c5b62ae434e38b03274494739b3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0057_1859dc89.npy",
+    "sha256": "868a63683610e6580cd033bf6139ebfc9c8901d09827eda516fdbd0dd1e87fd9",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0058_37753b41.npy",
+    "sha256": "33e65b77fc66b730eae0d3647c46a096f76a44c307eed4a766be60d776e6a4d7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0058_37753b41.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0059_60baa671.npy",
+    "sha256": "3de963b8f205bea01ecd9163ed1556ba16f523b817a34ccc4da7991d33a29c6b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0059_60baa671.npy",
+    "sha256": "381bf155db06f3f23122f126232e2641cbaed5b6f07063dd11f52b2056e99aa0",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0060_5c99e0b8.npy",
+    "sha256": "047c014be0009388bd74d7c1c09a729654bc64c80d295eb9ea295b36b130f215",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0060_5c99e0b8.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0061_624fe585.npy",
+    "sha256": "4f850000b15a923f19dcd5b4ca794a3dbd852bc9700a807830b75773d141863e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0061_624fe585.npy",
+    "sha256": "e35324554846ac0f6a22bc3f32adbf6fb10ddb1e7eea7a2f95c0df8231045765",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0062_fa40d325.npy",
+    "sha256": "fd29ca6f3334b79704dae85b03b346df04d21f8844d5e4bbadd1e19bc1591dae",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0062_fa40d325.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0063_b5aace3e.npy",
+    "sha256": "3ee66a60505924b46e0cc560f3a9a5555c2cbe2e2e99c3e714958988e783fcf3",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0063_b5aace3e.npy",
+    "sha256": "33bcf6a3ec3ff2778b10ed7fc7a501a1a7122a7e065590faba99ec4a2ac6011a",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0064_625b6786.npy",
+    "sha256": "b9c5747619b1583e0e29c20d7b6f39e3a42ce1dc1a9d3dcfc12c854a64f976a5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0064_625b6786.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0065_e7ddb7ce.npy",
+    "sha256": "f30c612dc522c6cb2b924c77086b2687b261e509a966472b8b11492d778b15bb",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0065_e7ddb7ce.npy",
+    "sha256": "bd4eaa1e48234379fbc6950315fb6353aa382f10d6ba688b35199eb58bf8000b",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0066_9d3741db.npy",
+    "sha256": "6d9291013991f5754467d36d0c090a1873cf00ac6bccc77920d9df3b967d7029",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0066_9d3741db.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0067_320da046.npy",
+    "sha256": "2d9e40ffd3d0ebffe9ceb07724c32e1b2187117c252485f97248cc2032421e46",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0067_320da046.npy",
+    "sha256": "aedb703b84b20cc6ac4f3346c842e30eae2f0f7adcd71242c543a479f9b8a7db",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0068_fb22d0d5.npy",
+    "sha256": "fefc234bf5c38a8a9e2addaa1b6d7a366dc11096a2e93583ef347c6315afe831",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0068_fb22d0d5.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0069_5d8ee5e6.npy",
+    "sha256": "3394252a7e995b1dfa121b699419e36d4cdf4a46a3aa50dd80f375cad5a9457c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0069_5d8ee5e6.npy",
+    "sha256": "627a13cc4c49a43ec5f238cd33c8751400b0be41c7f8892641318b3b8b244339",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0070_f7054f8e.npy",
+    "sha256": "02817deb65b046a0029909af592e2ad8602e66c665661aea833375beecec1d60",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0070_f7054f8e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0071_f95f35fa.npy",
+    "sha256": "76b375355fb2f61ac9e4e8fb35828e72a702169cbe5538ccde29d3faf5ba887a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0071_f95f35fa.npy",
+    "sha256": "8e280c4c1140d20c612d8229d2faa9631b0cc42467b55c6bdbaf6e967ff69319",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0072_203e6535.npy",
+    "sha256": "c054570cf3ecba1d71cf669524418804dc9ffb49fb41c3274624ae8f51c58b8c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0072_203e6535.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0073_61644365.npy",
+    "sha256": "eb108acd023750b502a9ccb39820efa1e74c515a05e218fcc5dfbffa1756ddb7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0073_61644365.npy",
+    "sha256": "75eeadfe817b8f9601aa17b351ce4658aa909d5d1d3e32b00d20d1904fc74058",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0074_f0bbef87.npy",
+    "sha256": "c77168ce4bf83f5ae35aacf2f0fb139e7e746771a6071fe530ae82aa9063069b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0074_f0bbef87.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0075_0ce9eacb.npy",
+    "sha256": "8577de7af19d5a01ccaf2a44876c4d369f4efb587818faae3e156e3ac5f633df",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0075_0ce9eacb.npy",
+    "sha256": "bf5597968106d38af7432bd7ad028168844926cf03f18b56e5202a8dd6cad8da",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0076_01d66945.npy",
+    "sha256": "103caa96bef55e460697518d5f8b330e438ff28c5c427702b0c1e4cc47a52596",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0076_01d66945.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0077_f1e67280.npy",
+    "sha256": "a44efff6143bfb76fd41bc3b7523a4ed64c9d725e41b031628d14bbe6b9d782a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0077_f1e67280.npy",
+    "sha256": "9ec72654d0b327dc5b64685111801bb3b0fe9fcd3ea7e2eb85333d414ecf86dc",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0078_ea43e12c.npy",
+    "sha256": "636067c763c5bed7bc30f9da930c544f686b9614312f8ee7557e53b8e4e08c50",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0078_ea43e12c.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0079_47a09d6e.npy",
+    "sha256": "8f33a2488c6dd35d6911224aa4934a6428e4680ab6342870d98d08e6c7fbe3a9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0079_47a09d6e.npy",
+    "sha256": "15d9f513e7a42fb303d7444ba7a8239fce4b7880feb294904504c8d5d3830b21",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0080_fe4b4d5a.npy",
+    "sha256": "cc8347be1c128ea98f830ee437f00fa017875149d84ad0074f36c8b8f7f1251f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0080_fe4b4d5a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0081_da49da27.npy",
+    "sha256": "1eef4348abf234460d468dc926f91944f782e73f9e76a1f7111e6b29d0043b1b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0081_da49da27.npy",
+    "sha256": "77b71eaeafc201b36735e4feae7b65c5f81f5eb49e9e111134419a9072f868e0",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0082_6b1d1ebe.npy",
+    "sha256": "9f5d7128f87e5ae94312e0ab4f9b1892e779163187832f2eeac3fd7482b21f3d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0082_6b1d1ebe.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0083_432f8c58.npy",
+    "sha256": "45947d4d4accc83cd0bca8173db27975e6c075701bdd0ad428743f9b4ddacfd0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0083_432f8c58.npy",
+    "sha256": "1849c0dce9942f41c2a32a180624ecae0beb43d8c71ed41a2ef2c6482e6baf20",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0084_bab59609.npy",
+    "sha256": "2e230a745e1ca72c82fd98c1a4f8b1bddfe43e12c944ad58856d7dacb8e9f120",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0084_bab59609.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0085_cb1807cb.npy",
+    "sha256": "386761b79ad404d589f6c4fd8f375719f2fad34f79460758c022b2ce3272b1f5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0085_cb1807cb.npy",
+    "sha256": "a4b8da20a215fbcfa9e3dbbe8c795270384bac5febf492ec3b49094462bd9526",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0086_89d570d0.npy",
+    "sha256": "27529695dc9f5c5c1db490ce15a826a4d22dd598ada390299e00f777f6389a78",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0086_89d570d0.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0087_eb7bcff5.npy",
+    "sha256": "b9ebc2ba24b4f45ad18c15781dd4d1ad2711a552cc37fa27970c0e734e9d2404",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0087_eb7bcff5.npy",
+    "sha256": "314683b35348de53059e3bed49fe33bd4a63deb31d76f72e4d52575ddf722046",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0088_5ae9b22e.npy",
+    "sha256": "e4b62b49a46418035b4c5097fbf022671279c7054551a6e7b26e47aee744d631",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0088_5ae9b22e.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0089_0524adcc.npy",
+    "sha256": "f583018bf18d408b1ead39044b1250f12aa2a553bb1921e973f0919bc855d27e",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0089_0524adcc.npy",
+    "sha256": "b1b6c5c8a5b1cfcd06bfb22f82d97d930957b21d2c4b54c837542feb9a86febc",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0090_686f35ad.npy",
+    "sha256": "acdffaea03b6b538a0197a26379ad6af44734cf5505bfd2b0a9ef9ad999ece9d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0090_686f35ad.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0091_862bd4dd.npy",
+    "sha256": "efc5954ffd8fa8eb8242ebb2fe08604ad43be719a08312191c8ce7d6482bc392",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0091_862bd4dd.npy",
+    "sha256": "c5417dfcb99a76097ad950e035de23a867a674994057c05d1310b96d42a2f4ae",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0092_7a090c5d.npy",
+    "sha256": "ed2bf68a51f4bca612292d768b665ac96ca3f32ed0c8abb21d4a0309673be108",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0092_7a090c5d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0093_bf36371d.npy",
+    "sha256": "d23d99cc2ae96b057daa940ed70cc46dd00d5c56a19dd10d164775cc1423e24b",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0093_bf36371d.npy",
+    "sha256": "e60dee846a76c109935bdd19751d3323d8f065d01e29b3a1781bd230ed10e9d0",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0094_5458d965.npy",
+    "sha256": "44869283dfb5a278bf552eda668fbe47fe17c7b6ba96f8c32522c2475963753c",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0094_5458d965.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0095_f03703ae.npy",
+    "sha256": "f327ac061c1559ebb8e0a44a59193f83d069de80d8600eee4fd9eb0aec5e714d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0095_f03703ae.npy",
+    "sha256": "5b28566b46c6205481afec1a5a175a900e9704ca908718e0d898a895c48d74cc",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0096_3d96b2c4.npy",
+    "sha256": "7f1530701cccc4a47f6a61d3e87c9bb8e93f06b120f7316b7bd32d4b191739d5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0096_3d96b2c4.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0097_7a88c411.npy",
+    "sha256": "b207c9eb77d756ddd6c7c1f1f89de8623138e579d71785124bed06c138eac945",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0097_7a88c411.npy",
+    "sha256": "338f2aba9314596721335b1bc00f71ac4f5720ab06e40b8a238d1957f7509360",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0098_42723674.npy",
+    "sha256": "ab44b8589f26ea2c2ee88662e33d92017202232e9681d0db24b77f7ef07c08be",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0098_42723674.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0099_1e919e2d.npy",
+    "sha256": "ce8a9f89705f1d85928736a02d341c8589d9fa5ec0864e247d83e806c62a3205",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0099_1e919e2d.npy",
+    "sha256": "2d337547fd18538211a41e8c5fb619d44656a360c1779311312c15facbbb552f",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0100_db972148.npy",
+    "sha256": "85baa5d1e2f2df3e08973635e3bb06a05922e4918d3366924248515d676d1088",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0100_db972148.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0101_04ab4f27.npy",
+    "sha256": "ae617f2ef14ccd2fcc9be48098fe9aed0a021644a42fceb3cb819a68c8d23f74",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0101_04ab4f27.npy",
+    "sha256": "1b7107a617753c5300750a1696f778ababc47bd127cd302edabf876ab52f5fdf",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0102_1e895585.npy",
+    "sha256": "ff73055b5a849075bae0806d46e717e1e919f967e565526dfe50e368408e90c0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0102_1e895585.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0103_dddb8c2a.npy",
+    "sha256": "76ec36b884a644bc9beecd38679d9a3da4e3108717acf12f89a993909790c65a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0103_dddb8c2a.npy",
+    "sha256": "79d9e9cc3842b3fa1e25f89d1350e6eaf98ac055899cc877072469dc68defd19",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0104_e1858c44.npy",
+    "sha256": "5e3f65e019c5c7b057eca6ff2527a54cc562e63b52565a2777098246b24e0f0f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0104_e1858c44.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0105_15f7e6f8.npy",
+    "sha256": "570b6020ea2a5e556e389ad3dad9ce41962f4be18452c22cb7506893b7c2c442",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0105_15f7e6f8.npy",
+    "sha256": "f6edc38a6887b2944aa3e0b6afbad0c4575846bfe07ffb4dd0fea0ed76fa6f7c",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0106_477fa2b7.npy",
+    "sha256": "806a9b35166fd78f030d7f611400c8fa4e22b75c5c040f0f0957422114526897",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0106_477fa2b7.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0107_ab067227.npy",
+    "sha256": "525b9a238885ead164addae2492e63dedb415903d5812343bf1e353bdde1d0c7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0107_ab067227.npy",
+    "sha256": "f1a56dbfbba62d805795f1e8fe5c716a97cb618055c37e332b3a453c30ce277a",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0108_f0fe411b.npy",
+    "sha256": "c89d2c121d64c229808417389903c15c7e835eb20b6e1ee1fc2f23c83ad43b5d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0108_f0fe411b.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0109_3b62366b.npy",
+    "sha256": "c92835b3046bf27b3813a11d9a3f60d38372f0b80778db960ef7c9d0a090d7b9",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0109_3b62366b.npy",
+    "sha256": "86f0b3c006804ecb29539151b14da7889f58ba88dc49fc8897cb6a63209b0c52",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0110_11537179.npy",
+    "sha256": "2f1dc0a9cb14eb5057d47455eb87fb2136371baa5005f4cb671fd3fd61d27e56",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0110_11537179.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0111_069365e3.npy",
+    "sha256": "04fdf7f919a33132060d67dde4d3c12b5377ec2d6e2decbc0eea198073f0dcd7",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0111_069365e3.npy",
+    "sha256": "8a883b0c3de64c80c427b983c8b6be5644255a539a6208fbe4e86e2882ab8f55",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0112_cc5b58d8.npy",
+    "sha256": "4e98669446a72cfa8fb27abe9d8208c1f1a2a159f4532c1b4aa45960c4241827",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0112_cc5b58d8.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0113_4cb4fa8a.npy",
+    "sha256": "96b1137eedf7120bac67691ad120c19f3f524aa53c208525862e1074d2e6a29d",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0113_4cb4fa8a.npy",
+    "sha256": "1632ee23f0eb707d5f4d71646ee2a17dba68e09267ca54391ac9c17c70da5c23",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0114_f9ce867b.npy",
+    "sha256": "c0a7941bc50ffe8379f7799dace0d7e1c960a1b07dd3f864d36b6021223f7834",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0114_f9ce867b.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0115_06346aed.npy",
+    "sha256": "af332ef28059e0d7cc59b38d612854603ed175c2ab4f721007c2d89c24781310",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0115_06346aed.npy",
+    "sha256": "2d94e6a8d4e684de25216700e6d078174dfaeaf94ccaded0adcdbd99de268386",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0116_44b5e277.npy",
+    "sha256": "43ec312c49890db2f5e36f34f319a44cf7f18d829cd4c6a0360ee39edbefe6df",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0116_44b5e277.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0117_b0ea7a94.npy",
+    "sha256": "9eb3a19267b6f3459fa397854e1adaecef838388f842a0ba49961ab93b209450",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0117_b0ea7a94.npy",
+    "sha256": "030aa0586ef599d3013c8ae96da16cf1794b145fe8955e84b304fefa91895f64",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0118_04421762.npy",
+    "sha256": "acf06e6b797e70c4bf6fcf35b26b2e270e9cb53202e9332164157e889401ab93",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0118_04421762.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0119_6ed12521.npy",
+    "sha256": "19f1a634cceb9801ce0a03f21141c613461317c73c1fed9ae6582ef7a72f610a",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0119_6ed12521.npy",
+    "sha256": "b059a76a5cc6bb2cb3e0a4b7c34146add1471716e0ebff5bd7121d0b7834b9c8",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0120_96e57f1d.npy",
+    "sha256": "720fc2bb4e08f16deda829c25d37cc02b00e24d04b451720c01d9a89eb6c8b0f",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0120_96e57f1d.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0121_0f900e74.npy",
+    "sha256": "1d6909a29537c35423b33ebdec0b00559986c9370c7063a47bb63adb68f8b6a0",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0121_0f900e74.npy",
+    "sha256": "c3de838d1935af47500e04fe701fe23125f220088617dc2f16e2e41ba2663114",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0122_bccc650a.npy",
+    "sha256": "a65e0ed58b612b2370476ce9a875f550d5c25ff449d29dc04c22896e2e027bf5",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0122_bccc650a.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0123_23adcd23.npy",
+    "sha256": "e548b2cc9346d9000fc4949260191eeb77213300d6a397ed0cb05ea4f6169b21",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0123_23adcd23.npy",
+    "sha256": "99e218190d699086d378f59465f2fce80e77dfbb4ae131c10ab1da017c81c022",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0124_673b80a5.npy",
+    "sha256": "5ae25a3a84ed4b67486dbd06d66c88497016380140d3e86acf7e53de33332f05",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0124_673b80a5.npy",
+    "sha256": "4b5c57251f3db11193a255076fa9f87cdd798eeb947864c7263ac25a754a81f1",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/prediction_masks/0125_4e327bb7.npy",
+    "sha256": "b065436c5b30d9163e1afc3fd147e3183f000269dc92e1fa0644817ade2fa586",
+    "bytes": 262272,
+    "kind": "archived_float32_probability"
+  },
+  {
+    "path": "c1/copy_move_jpeg85/gt_masks/0125_4e327bb7.npy",
+    "sha256": "64c96a3b5e1cd707711d1f0102f7f731c52645933aa9b0800024721d86a17c3e",
+    "bytes": 65664,
+    "kind": "deterministically_reconstructed_binary_GT"
+  }
+]

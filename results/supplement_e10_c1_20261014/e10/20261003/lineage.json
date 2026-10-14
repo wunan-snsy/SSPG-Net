@@ -1,0 +1,17 @@
+{
+  "experiment_id": "E10-SCM-v1-20261003",
+  "seed": 20261003,
+  "protocol_sha256": "0c2728b37719adf4ed58561a9bd69e2af0b63d8e3a245482fe39ec36fe3d23b7",
+  "decoder_sha256": "7aecf8f75e7e8f8c326ce07597d3f1c5c9a84c244ec400082fd2a0b68a236758",
+  "artifact_hashes": {
+    "best.pth": "3b8e88cf73532c471b676e9c2088ae4eef4a77053c87e914b20c77452e667175",
+    "training_log.csv": "b03de63f6c23ca69263b810a8f930e7d919e6ac8a1c7877f561b96ec448c2916",
+    "training_protocol.json": "a345425d5d79b52df8961d580224c8492dfc49fbea1ed929305e1bd6afb67442",
+    "val_predictions.csv": "4c7387b1b2ab314d9d23b02d1c517b5bab723d5eb8143fb52fd58581e574b363",
+    "metrics.csv": "1f8880b0fbdae07689f877ae8d05fd199307d2478aa1b031370aae29e667c60a",
+    "metrics.json": "0ec31ab189ecc4046edc5fab3790dd073eea494d2924bfe3ef734e94b5a93fa7"
+  },
+  "test_accessed": false,
+  "casia_accessed": false,
+  "e9_accessed": false
+}
